@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 heroImage: assets/images/cct.png
 actionText: Get Started
 actionLink: /AM/

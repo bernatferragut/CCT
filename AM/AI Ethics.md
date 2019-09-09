@@ -1,4 +1,4 @@
-# AI jhjj Ethics
+# AI and Ethics
 
 **Recommended grade level:** 4-8
 

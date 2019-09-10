@@ -53,12 +53,18 @@ Anything from a digital basketball game to passing secret messages or creating a
 **2.** The micro:bit will show up as a drive called **MICROBIT**
 **3.** On the Makecode platform, after creating your code, press the **Download** button in order to save your code.
 	
-	![VIDEO](/assets/images/videos/A.mp4)
+<!-- [VIDEO](/assets/images/videos/A.mp4) -->
+<video width="100%" height="" controls>
+    <source src="/assets/images/videos/A.mp4" type="video/mp4">
+</video>
 
 **4.** Save it as a .hex file, which is a format that the micro:bit can understand.
 Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your code to the micro:bit.
 
-	[!VIDEO](/assets/images/videos/B.mp4)
+<!-- [VIDEO](/assets/images/videos/B.mp4) -->
+<video width="100%" height="" controls>
+    <source src="/assets/images/videos/B.mp4" type="video/mp4">
+</video>
 
 **5.** Now you're ready to use your micro:bit! You can keep uploading new .hex files onto your micro:bit but each time you upload a new program the old one is deleted as the micro:bits can only store one .hex file at a time.
 Note: The micro:bit can only store .hex files and will reject any other type of file that it receives.

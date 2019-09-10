@@ -1,6 +1,6 @@
 module.exports = {
     title: ' ',
-    description: 'EXPLORATIONS',
+    description: ' ',
     themeConfig: {
         logo: '/assets/images/logo.png',
         nav: [

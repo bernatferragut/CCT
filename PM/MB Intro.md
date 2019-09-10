@@ -6,12 +6,21 @@
 **Recommended duration:**: 15 min.
 
 **Learning Objectives:**
-* Familiarity with the microbit environment
-* Familiarity with the programming concept of sequencing  
+* Familiarity with the microbit environment and the Makecode platform
+* Familiarity with the programming concept of sequencing 
 * Similarities in Visual Block Coding between Scratch and Micro:bit platforms
 
 
 **Materials:**: Makecode platform
+
+## What is a Microbit?
+>The BBC micro:bit is a mini-computer that can be programmed to do almost any task! It has a built-in accelerometer, radio transmitter, 5 by 5 LED display and two programmable buttons. 
+
+Powered by a battery pack or by USB, the micro:bit is a powerful tool to teach programming in a fun interactive way that has limitless potential. Each activity here teaches different radio concepts using micro:bit, building off of the previous exercise(s) and is perfect for any level of programming experience.
+
+Anything from a digital basketball game to passing secret messages or creating a musical instrument is possible with this device that fits in the palm of your hand.
+
+
 
 ## Makecode Platform Intro  (5 min.)
 > Introduction of the MakeCode Interface and its similarities with Scratch.
@@ -19,42 +28,49 @@
 ##### The Makecode Platform main interface
 ![](/assets/images/pm-mb0/mb0-1.png)
 
-    NOTES
-    * The Simulator allows to program without any physical device connected.
-
+    TEACHER NOTES
+    * Introduce the MakeCode Interface and show its similarities with Scratch
+    * Similarites: block palette, simulator - stage, coding area
 
 ## Makecode platform code example (10 min.)
 > Comments on some simple code to see how easy is to work with.
 
-##### Similarities between Scratch and Microbit going through a simple example.
+##### The Makecode Platform main interface
 ![](/assets/images/pm-mb0/mb0-2.png)
 
-1. Introduce the **On start** event and play with the show LEDs block.
+    TEACHER NOTES
+        * Live code slowly
+        * Encourage people to go on the platform and test the code themselves
+        * Spend some time exploring the Simulator and explain its advantages
+            * Change the icons 
+            * Change the string for their names 
+            * Change shake trigger for A + B
+            * Make sure to mention all the sensors micro:bits have
+            * Show a where the tutorials are in the makecode platform 
 
-##### Use the LEDs block to show how to draw with lights
-![](/assets/images/pm-mb0/mb0-3.png)
+## Download your Program
+**1.** Connect your micro:bit to your computer using a USB cable. 
+**2.** The micro:bit will show up as a drive called **MICROBIT**
+**3.** On the Makecode platform, after creating your code, press the **Download** button in order to save your code.
+	
+	![VIDEO](/assets/images/videos/A.mp4)
 
-2. Introduce the events on **button A, B or AB is pressed**
+**4.** Save it as a .hex file, which is a format that the micro:bit can understand.
+Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your code to the micro:bit.
 
-##### Use the 3 different button variations as an example of physical inputs
-![](/assets/images/pm-mb0/mb0-4.png)
+	[!VIDEO](/assets/images/videos/B.mp4)
 
-3. Introduce the gyroscope sensor using the on shake function
+**5.** Now you're ready to use your micro:bit! You can keep uploading new .hex files onto your micro:bit but each time you upload a new program the old one is deleted as the micro:bits can only store one .hex file at a time.
+Note: The micro:bit can only store .hex files and will reject any other type of file that it receives.
 
-##### Use the sensor on shake to see the gyroscope in action
-![](/assets/images/pm-mb0/mb0-5.png)
-
-    NOTES
-    * Both platforms have similar basic programming secrtions
-    * The sensors sections are the main difference between both platforms
-    * Examples to show:
-        * Chuck the Duck for radio communication
-        * Step Counter for using a sensor
 
 
 ## Reflection
 * Do you understand properly the main differences between both platforms?
 * Why would you choose one over the other in your classes?
+
+## Display
+* Show 2 Microbits sending a message and animated lights at the end
 
 ## Examples 
 * [Chuck the Duck Code]()

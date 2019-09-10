@@ -28,76 +28,97 @@ Scratch is a programming language that allows you to use code blocks to create a
 **Materials:**: Scratch 3.0 platform
 
 ## Starting point (10 min.)
-> Before anything, we must define which will be our starting point using x,y coordinates.
+> To start, in order to not lose our sprite we define a starting position that it can go back to when spacebar is pressed (or any other event you wish to use)
 
-##### Choose the top left side of the screen as the starting point
+##### The first thing to do is to define your starting point:  We choose the top left side of the screen.
+
 ![](/assets/images/am-scratch/sc-1.png)
 
-**1.** Use an **event** block to trigger your action. Ex: **When ‘space’ key is pressed**
+**1.** From the **event** section, drag an **event block** to trigger your action. Ex: **When ‘space’ key is pressed**
 
-**2.** Define with the block **go to x,y** the starting point. Start from the top left corner.
-(0,0 is at the center of the screen and the scene dimensions are: 
--240 +240 on x and -180 +180 on y)
+**2.** Move your sprite in the top left corner of the stage.  Drag a **go to x: y:** block and a **point in direction 90** block and attach them to your code
 
-**3.** Create a **new sprite** from the library and place it on the bottom right corner.
+    NOTES
+    * 0,0 is the center of the screen.
+    * The scene dimensions are: -240 +240 on x and -180 +180 on y
+
+**3.** **Choose a new sprite** the library and place it in the bottom right corner.
 
 ##### Clicking over the cat icon you can choose a new sprite, a ball in the example. 
 ![](/assets/images/am-scratch/sc-2.png)
 
-    NOTES
-    * Why the first program we code is the starting point one?
-    * The Scratch coordinates systems is: -240+240 in x, -180+180 in y
-    * Use the Rotation wheel to see how angles work in Scratch
-    * Find all the possibilities of the block 'When key is pressed'
+    SPEKAER NOTES
+    * Present the different parts of the scratch interface 
+    * Present the drag and drop and how to delete a block
+    * Explain how the x,y grid works in Scratch - (-240+240, -180+180)
+    * Use the Rotation wheel to show properly how angles work in Scratch
+    * Explain When key is pressed block show all the possibilities
+    * Explain why the code is only added to the sprite when it is selected
 
+## ‘Centric’ moving with Scratch (10 min.)
+> Using the move, turn and repeat to reach your goal. 
 
-## Centric motion (10 min.)
-> Using the move, turn and repeat to move
-
-##### Choose the event 'number 1' to activate the centric movement
+##### We will use the event number 1 to activate the centric movement
 ![](/assets/images/am-scratch/sc-3.png)
 
-    NOTES
-    * Use the right mouse button to launch a pop-up and add comments.
-         
 
+**1.** Make sure the cat is **selected**, from the **event** section drag an event block. Ex **When 1 key is pressed**
 
-**1.** First we turn using the **turn** block by 35 degrees to aim towards the ball
-( we could use the block **point towards** to be more flexible and precise )
+**2.** From the move section,  drag a **turn block** and adjust it to **35 degrees** so the cat aim towards the ball
 
-**2.** We use the **wait** block to give some ‘timing’ to the animation otherwise it goes too fast and we cannot really see all the steps we are doing. Adjust the amount of **repetitions** needed to combined with the **advance** block ( observe we are just doing a multiplication ) to achieve our goals. We will need around 400 steps to achieve the goal.
-
-**3.** At any time, we can go back to our starting point using the event back-space.
-
-**4.** We finish by adding the event: **when 1 key is pressed** to trigger the program.
-
-    NOTES
-    * Why do we use a wait block between blocks?
-    * Make sure to show different possibilities when advancing with a loop
-
-## Cartesian motion (10 min.)
-> Using the cartesian coordinates to move.
-
-##### Choose the event 'number 2' to trigger the cartesian movement
+##### Make sure you have your sprite selected before starting to code
 ![](/assets/images/am-scratch/sc-4.png)
 
     NOTES
-    * Here for the first time we use a condition.
-    * We react when a color is touched.
-    * In this case, the ball’s red color.
-         
+    *  we could also use the block point towards to select the beachball 
 
+**3.** From the **Motion** section use move “1” step block. you can adjust the length of the movement by increasing the number of steps or use a repetition block from the control section. 
 
-**1.** Use the **glide** block here. It allows us to define the point in space (x,y) where we want to go and also how much time it will take to arrive there.
+**4.** From the Control section use a **wait** block to give some ‘timing’ to the animation so we can see all the steps. 
 
-**2.** Use the **if** block here to allow us to check if a condition is met. In this case, if the condition **touching the red color is true** the cat will say the classic: 
-‘Hello World’.
+##### The block wait helps us to give timing to the code.
+![](/assets/images/am-scratch/sc-5.png)
 
-**3.** We finish by adding the event: **when 2 key is pressed** to trigger the program.
+    SPEAKER NOTES
+    * Show the “turn 35” or point toward blocks
+    * Advancing 400 steps vs using a repetition block
+    * Explain why we use a wait block between blocks
 
-    NOTES
-    * Why do we use a wait block between blocks?
-    * Make sure to show different possibilities when advancing with a loop
+## ‘Cartesian’ moving with Scratch (10 min.)
+> Use the cartesian coordinates to move.  Use a condition to react when a color is touched.
+
+##### We will use the event number 2 to trigger the cartesian movement
+![](/assets/images/am-scratch/sc-6.png)
+
+**1.** From the **event** section drag an event block. Ex **when 2 key is pressed**
+
+**2.** From the **motion** section, use the **glide** block. It allows us to define the point in space (x,y) where we want to go to and also how much time it will take to arrive there. Enter the coordinate of the **beach ball** in the block as a destination
+
+##### Use the glide block from the move section
+![](/assets/images/am-scratch/sc-7.png)
+
+**3.** From the **control** section, use the **if/then** block, it allows to allow us to check if a condition is met.
+
+**4.**  **Say ‘Hello World” when the cat touches the ball** - From the **sensing** section drag a touching color clock and insert it in the conditional block. 
+
+##### Use the touching color block under the Sensing section
+![](/assets/images/am-scratch/sc-8.png)
+
+**5.** Click on the **color** inside the **touching color block**, use the **color picker tool** to select the color red from the beachball. The statement now becomes **if the cat is ‘touching the red color is true’ then**.
+
+##### Use the color picker to select the color you want to react from
+![](/assets/images/am-scratch/sc-9.png)
+
+**6.** From the **looks** section, drag a **Say** block and insert it in the **if/then** block the text to be “Hello World!”
+
+##### Enjoy the final result: Hello World!
+![](/assets/images/am-scratch/sc-10.png)
+
+    SPEAKER NOTES
+    * Explain the glide block, and how to get the beachball coordinate
+    * Show what happens when we change the starting point
+    * Spend time explaining the condition with a true statement
+
 
 ## Reflection
 * Do you understand properly the two distinct ways to move in Scratch?
@@ -106,6 +127,5 @@ Scratch is a programming language that allows you to use code blocks to create a
 ## Remix
 * [Remix this exercise to start: ](https://scratch.mit.edu/projects/325327677/editor/)
 * [Scratch Studio](https://scratch.mit.edu/studios/25104660/)
-* [Exercise in PDF](https://docs.google.com/document/d/14m6sM5742f5tcNvaA6AtpJ5kkyg5ElFPkMub8RG8fXE/edit#)
 
 

@@ -32,10 +32,10 @@ Each team:
 
 3. Place few obstacles along the way 
 
-![](/assets/images/am-unplugged/signs.png)
-
 ## Game
 > Explain simply but in detail the ‘Programmer Game’
+
+![](/assets/images/am-unplugged/signs.png)
 
 * The **programmer** guides the robot from starting point to destination using the minimal amount of steps with 3 types of commands ( **start + advance + turn**). 
 

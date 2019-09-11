@@ -1,6 +1,6 @@
 # CT Unplugged
 
-## Driving the Robot
+## The Programmer game
 
 **Recommended grade level:** Teachers and students all levels
 
@@ -11,28 +11,45 @@
 * Familiarity with the programming concept of sequencing
 
 **Materials:**
-* Eyes band
-* Ball or other object as goal
-* [Instruction cards - Download]()
-* [Programming table - Download]()
+* [Download and print the programming table and cards](/assets/images/pdf/CT_Unplugged.pdf)
+* Ping pong ball or another object
+* Eye mask (optional)
 
 ## Introduction 
-> Explain simply but in detail the ‘Guide the Robot’ Game
 
-This introductory game invites each group of participants to experience writing their first program by giving simple instructions to a Robot. The Robot has to be guided from a starting point to a final goal. The Programmer can use only a simple set of instructions or cards which can be written on the **programming table**. The Program can be iterated by finding the number of repetitions to make it shorter and more efficient.
+This introductory game invites each group of participants to experience what is like **being a programmer** by giving simple instructions to a Robot. The Robot has to be guided from a starting point to a final goal. 
+
+The Programmer can use only a simple set of instructions or cards which can be written on the **programming table**. The Program can be iterated by finding the number of repetitions to make it shorter and more efficient.
+
+## Preparation
+
+Divide the participants in groups (3-6 participants per group)
+
+Each team: 
+1. Picks a **programmer**, a **scribe** and a **robot** 
+
+2. Defines a starting point and a destination (10-15 ft)
+
+3. Place few obstacles along the way 
+
+![](/assets/images/am-unplugged/signs.png)
 
 ## Game
-> Play the game
-* Divide the participants by table groups (3-6 participants per group).
-* Guide the Robot from the Starting Point to a close objective (10-15 ft).
-* Roles: 
-	* 1 Robot
-	* 1 Programmer giving instructions
-	* 1 Writer writing down instructions on the programming table
-* Give a ‘Program Table’ with 3 instructions to fill ( start + advance + turn ) or cards
-* Maximum 10 instructions can be given to reach the goal
+> Explain simply but in detail the ‘Programmer Game’
+
+* The **programmer** guides the robot from starting point to destination using the minimal amount of steps with 3 types of commands ( **start + advance + turn**). 
+
+* A maximum **10 instructions** can be given to reach the goal.
+
+* The **scribe** logs the instructions on the programming table using the pictograms and the repetitions cards.
+
+* The **robot** executes the instructions.
+
 ## Reflection
+
+When the game is done the team can go over the programming table and identify if they can make the algorithm even shorter.
+
+	TEACHING NOTES & DISCUSSIONS 
 	* How hard was to guide the Robot to the objective? 
-    * Where the instructions clear enough?
-	* Do these set of instructions remind you something normally used on your phone?
-	* How often do you use these kind of instructions to move daily?
+    * Were the instructions clear enough?
+	* Are these set of instructions used daily on your phone?

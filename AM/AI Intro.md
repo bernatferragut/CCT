@@ -17,42 +17,42 @@
 * How do babies learn what forks are: 5 human senses
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/1.png) -->
 
 * How do babies learn what forks are: 5 human senses
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/2.png) -->
 
 * Input examples and counter example to train your model
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/3.png) -->
 
 * Test your model with another example, here a spoon 
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/4.png) -->
 
 * Recap: to problem solve with AI, build a model of what a fork looks like
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/5.png) -->
 
 * Use your AI: identify of a fork pattern!
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/6.png) -->
 
 * Machine learning is a technique that teaches computers to do what comes naturally to humans: learn from experience. 
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/7.png) -->
 
 * Why is it so much work? Because your brain is really good at building models of objects
 
 ##### Caption
-![](/assets/images/am-tm/)
+<!-- ![](/assets/images/am-ai-intro/8.png) -->
 
 * Self driving cars 
 

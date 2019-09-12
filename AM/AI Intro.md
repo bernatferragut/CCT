@@ -73,16 +73,27 @@
     NOTES:
     * During the test the AI takes an image and analyses it to identify if a fork is included. It starts by detecting the edges and identifying the pattern of a fork. 
 
-## Machine 
+## Machine Learning
 > Machine learning is a technique that teaches computers to do what comes naturally to humans: **learn from experience.**
 
-##### Building the model
 ![](./assets/images/am-ai-intro/ai-intro-7.png)
 
-    NOTES:
-    * During the test the AI takes an image and analyses it to identify if a fork is included. It starts by detecting the edges and identifying the pattern of a fork. 
+## Why is it so much work?
+> Because your brain is really good at building models of objects
 
-* X-ray diagnosis
+##### We have an amazing brain
+![](./assets/images/am-ai-intro/ai-intro-8.png)
+
+Your brain is really good at building models for objects and identifying them even if not all the parts of the objects are visible
+
+## Self driving cars
+
+![](./assets/images/am-ai-intro/ai-intro-9.png)
+
+## X-ray diagnosis
+
+![](./assets/images/am-ai-intro/ai-intro-10.png)
+
 
         References: 
         * MIYAZAKI, H., et al. (2006). Hauru no ugoku shiro = Howl's moving castle. COLUMBUS, C. et al. (2001).

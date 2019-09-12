@@ -1,57 +1,5 @@
 # CT Unplugged
 
-## Robot Game
-> To give instructions to meet a goal
-
-**Recommended grade level:** Teachers and students all levels
-
-**Recommended duration:** 15 min
-
-**Learning objectives:** 
-* Familiarity with the creation of a program
-* Familiarity with the programming concept of sequencing
-* To create clear and specific algorithms to meet a goal
-
-**Materials:**
-* [Download and print the programming table and cards](/assets/images/pdf/CT_Unplugged.pdf)
-* Ping pong ball or another object
-* Eye mask (optional)
-
-### Introduction 
-
-This introductory game invites each group of participants to experience what is like **being a programmer** by giving simple instructions to a Robot. The Robot has to be guided from a starting point to a final goal. 
-
-The Programmer can use only a simple set of instructions or cards which can be written on the **programming table**. The Program can be iterated by finding the number of repetitions to make it shorter and more efficient.
-
-### Game
-![](/assets/images/am-unplugged/signs.png)
-
-**1.** Divide the participants in groups (3-6 participants per group)
-
-**2.** Each team: Picks a **programmer**, a **scribe** and a **robot** 
-
-**3.** Define a starting point and a destination (10-15 ft)
-
-**4.** Place few obstacles along the way 
-
-**5.** The **programmer** guides the robot from starting point to destination using the minimal amount of steps with 3 types of commands ( **start + advance + turn**). 
-
-**6.** A maximum **10 instructions** can be given to reach the goal.
-
-**7.** The **scribe** logs the instructions on the programming table using the pictograms and the repetitions cards.
-
-**8.** The **robot** executes the instructions.
-
-### Reflection
-
-* How hard was to guide the Robot to the objective? 
-* Were the instructions clear enough?
-* Are these set of instructions used daily on your phone?
-
-	TEACHING NOTES
-	* Identify if they can make the algorithm even shorter
-
-
 ## Architect Game
 > To give instructions to create an image
 
@@ -108,3 +56,55 @@ This introductory game invites each group of participants to experience what is 
 		* Are all players able to share ideas and participate?
     	* Can players give clear and effective instructions?
 		* Are players becoming frustrated?
+
+
+## Robot Game
+> To give instructions to meet a goal
+
+**Recommended grade level:** Teachers and students all levels
+
+**Recommended duration:** 15 min
+
+**Learning objectives:** 
+* Familiarity with the creation of a program
+* Familiarity with the programming concept of sequencing
+* To create clear and specific algorithms to meet a goal
+
+**Materials:**
+* [Download and print the programming table and cards](/assets/images/pdf/CT_Unplugged.pdf)
+* Ping pong ball or another object
+* Eye mask (optional)
+
+### Introduction 
+
+This introductory game invites each group of participants to experience what is like **being a programmer** by giving simple instructions to a Robot. The Robot has to be guided from a starting point to a final goal. 
+
+The Programmer can use only a simple set of instructions or cards which can be written on the **programming table**. The Program can be iterated by finding the number of repetitions to make it shorter and more efficient.
+
+### Game
+![](/assets/images/am-unplugged/signs.png)
+
+**1.** Divide the participants in groups (3-6 participants per group)
+
+**2.** Each team: Picks a **programmer**, a **scribe** and a **robot** 
+
+**3.** Define a starting point and a destination (10-15 ft)
+
+**4.** Place few obstacles along the way 
+
+**5.** The **programmer** guides the robot from starting point to destination using the minimal amount of steps with 3 types of commands ( **start + advance + turn**). 
+
+**6.** A maximum **10 instructions** can be given to reach the goal.
+
+**7.** The **scribe** logs the instructions on the programming table using the pictograms and the repetitions cards.
+
+**8.** The **robot** executes the instructions.
+
+### Reflection
+
+* How hard was to guide the Robot to the objective? 
+* Were the instructions clear enough?
+* Are these set of instructions used daily on your phone?
+
+	TEACHING NOTES
+	* Identify if they can make the algorithm even shorter

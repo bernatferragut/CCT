@@ -39,6 +39,7 @@
 > Input examples and counter example to train your model
 ##### Feeding the AI system with examples
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_4.png)
+
     NOTES:
     * The AI trainer puts the collection of examples in the AI system.
     * The AI system can build a model of  what the forks look like from different angles.
@@ -75,7 +76,7 @@
 ## Machine Learning
 > Machine learning is a technique that teaches computers to do what comes naturally to humans: **learn from experience.**
 
-![](/assets/images/am-ai-intro/ai-intro-7.png)
+<img src="./assets/images/am-ai-intro/AI_Intro_Slides_17.png" width="100%">
 
 ## Why is it so much work?
 > Because your brain is really good at building models of objects
@@ -86,12 +87,25 @@
 Your brain is really good at building models for objects and identifying them even if not all the parts of the objects are visible
 
 ## Self driving cars
+##### Some obvious things for us still very difficult for AI
+<img src="./assets/images/am-ai-intro/AI_Intro_Slides_18.png" width="100%">
 
-<img src="./assets/images/am-ai-intro/ai-intro-9.png" width="600">
+### CAN DO
+* Identify the position of other cars
+
+### CAN NOT
+* Differentiate hand signs between stop, hitchhikers or bike turning
+
 
 ## X-ray diagnosis
+##### AI flourish with rich, large guality data sets
+<img src="./assets/images/am-ai-intro/AI_Intro_Slides_19.png" width="100%">
 
-<img src="./assets/images/am-ai-intro/ai-intro-10.png" width="600">
+### CAN DO
+* Identify pneumonia from 10 000 labeled images
+
+### CAN NOT
+* Identify pneumonia from 10 images, a textbook chapter and a few clinical cases
 
 
         References: 

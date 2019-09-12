@@ -23,7 +23,7 @@ This introductory game invites each group of participants to experience what is 
 
 The Programmer can use only a simple set of instructions or cards which can be written on the **programming table**. The Program can be iterated by finding the number of repetitions to make it shorter and more efficient.
 
-### How to Play
+### Game
 ![](/assets/images/am-unplugged/signs.png)
 
 **1.** Divide the participants in groups (3-6 participants per group)
@@ -74,8 +74,8 @@ The Programmer can use only a simple set of instructions or cards which can be w
 
 This introductory game invites each group of participants to experience what is like **being a programmer** by giving simple instructions to create an image. The instructions have to be as clear as possible to be able to create an acurate image made with wooden sticks.
 
-### How to Play
-![](/assets/images/am-unplugged/signs2.png)
+### Game
+![](/assets/images/am-unplugged/sticks.png)
 
 1. Divide the tables into 2 groups (2-4 participants per group) on each side of the table. Group A and Group B.
 

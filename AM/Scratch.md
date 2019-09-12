@@ -15,8 +15,6 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 ## How to move in Scratch?
 
-<!-- ## PDF
-[Link to PDF]([https://docs.google.com/document/d/14m6sM5742f5tcNvaA6AtpJ5kkyg5ElFPkMub8RG8fXE/edit]) -->
 **Recommended grade level:**: grades 5 - 7
 
 **Recommended duration:**: 30 min.
@@ -28,11 +26,9 @@ Scratch is a programming language that allows you to use code blocks to create a
 **Materials:**: Scratch 3.0 platform
 
 ## Starting point (10 min.)
-> To start, in order to not lose our sprite we define a starting position that it can go back to when spacebar is pressed (or any other event you wish to use)
-
 ##### The first thing to do is to define your starting point:  We choose the top left side of the screen.
 
-![](/assets/images/am-scratch/sc-1.png)
+<img src="/assets/images/am-scratch/sc-1.png" width="600">
 
 **1.** From the **event** section, drag an **event block** to trigger your action. Ex: **When ‘space’ key is pressed**
 
@@ -59,7 +55,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 > Using the move, turn and repeat to reach your goal. 
 
 ##### We will use the event number 1 to activate the centric movement
-![](/assets/images/am-scratch/sc-3.png)
+<img src="/assets/images/am-scratch/sc-3.png" width="600">
 
 
 **1.** Make sure the cat is **selected**, from the **event** section drag an event block. Ex **When 1 key is pressed**
@@ -77,7 +73,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 **4.** From the Control section use a **wait** block to give some ‘timing’ to the animation so we can see all the steps. 
 
 ##### The block wait helps us to give timing to the code.
-![](/assets/images/am-scratch/sc-5.png)
+![](./assets/images/am-scratch/sc-5.png)
 
     SPEAKER NOTES
     * Show the “turn 35” or point toward blocks
@@ -88,7 +84,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 > Use the cartesian coordinates to move.  Use a condition to react when a color is touched.
 
 ##### We will use the event number 2 to trigger the cartesian movement
-![](/assets/images/am-scratch/sc-6.png)
+<img src="/assets/images/am-scratch/sc-6.png" width="600">
 
 **1.** From the **event** section drag an event block. Ex **when 2 key is pressed**
 

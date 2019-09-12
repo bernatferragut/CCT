@@ -106,5 +106,6 @@ The Programmer can use only a simple set of instructions or cards which can be w
 * Were the instructions clear enough?
 * Are these set of instructions used daily on your phone?
 
-	TEACHING NOTES
-	* Identify if they can make the algorithm even shorter
+
+		TEACHING NOTES
+		* Identify if they can make the algorithm even shorter

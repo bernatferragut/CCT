@@ -1,6 +1,6 @@
 # CT Unplugged
 
-## The Robot game
+## Robot Game
 > To give instructions to meet a goal
 
 **Recommended grade level:** Teachers and students all levels
@@ -52,7 +52,7 @@ The Programmer can use only a simple set of instructions or cards which can be w
 	* Identify if they can make the algorithm even shorter
 
 
-## The Architect 
+## Architect Game
 > To give instructions to create an image
 
 **Recommended grade level:** Teachers and students all levels

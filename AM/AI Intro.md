@@ -18,7 +18,7 @@
 ## 5 human senses
 > How do babies learn what forks are: 5 human senses
 ##### What is a fork?
-![](./assets/images/am-ai-intro/ai-intro-1.png)
+![](/assets/images/am-ai-intro/ai-intro-1.png)
 
     NOTES:
     * As kids, we learn to use a fork with our 5 senses
@@ -27,7 +27,7 @@
 ## Collect examples
 > Let’s teach an AI what a fork is: collect examples and identify forks in images
 ##### Teaching an AI system
-![](./assets/images/am-ai-intro/ai-intro-2.png)
+![](/assets/images/am-ai-intro/ai-intro-2.png)
 
     NOTES:
     * To teach computers how to recognize a fork:   
@@ -38,7 +38,7 @@
 ## Input example in your model
 > Input examples and counter example to train your model
 ##### Feeding the AI system with examples
-![](./assets/images/am-ai-intro/ai-intro-3.png)
+![](/assets/images/am-ai-intro/ai-intro-3.png)
 
     NOTES:
     * The AI trainer puts the collection of examples in the AI system.
@@ -49,7 +49,7 @@
 ## Test your model
 > Test your model with another example, here a spoon 
 ##### Testing the AI system % of confidence
-![](./assets/images/am-ai-intro/ai-intro-4.png)
+![](/assets/images/am-ai-intro/ai-intro-4.png)
 
     NOTES:
     * The AI trainer runs a test to ensure the fork model works well and the AI is able to identify the images of forks.
@@ -58,7 +58,7 @@
 ## Recap
 > To problem solve with AI, build a model of what a fork looks like
 ##### Building the model
-![](./assets/images/am-ai-intro/ai-intro-5.png)
+![](/assets/images/am-ai-intro/ai-intro-5.png)
 
     NOTES:
     * During the training, the AI found a common pattern in all of the images of forks.
@@ -68,7 +68,7 @@
 > Use your AI: identify a fork pattern!
 
 ##### Building the model
-![](./assets/images/am-ai-intro/ai-intro-6.png)
+![](/assets/images/am-ai-intro/ai-intro-6.png)
 
     NOTES:
     * During the test the AI takes an image and analyses it to identify if a fork is included. It starts by detecting the edges and identifying the pattern of a fork. 
@@ -76,7 +76,7 @@
 ## Machine Learning
 > Machine learning is a technique that teaches computers to do what comes naturally to humans: **learn from experience.**
 
-![](./assets/images/am-ai-intro/ai-intro-7.png)
+![](/assets/images/am-ai-intro/ai-intro-7.png)
 
 ## Why is it so much work?
 > Because your brain is really good at building models of objects

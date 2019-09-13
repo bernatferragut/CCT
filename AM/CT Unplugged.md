@@ -1,7 +1,7 @@
 # CT Unplugged
-
-## Architect Game
 > To give instructions to create an image
+
+![](/assets/images/am-unplugged/sticks.png)
 
 **Recommended grade level:** Teachers and students all levels
 
@@ -18,33 +18,39 @@
 * Scrap paper
 * Markers
 
-### Introduction 
+## Introduction 
+> The Architect Game
 
 This introductory game invites each group of participants to experience what is like **being a programmer** by giving simple instructions to create an image. The instructions have to be as clear as possible to be able to create an acurate image made with wooden sticks.
 
-### Game
-![](/assets/images/am-unplugged/sticks.png)
+## Game
 
-1. Divide the tables into 2 groups (2-4 participants per group) on each side of the table. Group A and Group B.
+**1.** Divide the tables into 2 groups (2-4 participants per group) on each side of the table. Group A and Group B.
 
-2. Invite each team to take 2 pages of flipchart paper, markers and 5-6 sticks.
+**2.** Invite each team to take 2 pages of flipchart paper, markers and 5-6 sticks.
 
-3. Explain and demonstrate that:
+**3.** Explain and demonstrate that:
 	* Each team will work together to create a design with their sticks and draw it on a piece of scrap paper (see examples below).
 	* They should not show their design to the other teams.
 
-3. Explain and demonstrate that:
+**4.** Explain and demonstrate that:
 	* Teams should not show their designs to one another.
 	* Team A will clearly instruct Team B to create their design. For example, **“Place 3 sticks in a straight line from left to right.”**
-	* Team A **cannot point or demonstrate when they give instructions. They can only use words.**
-	* Team B might not follow the instructions correctly. If this happens, Team A can discuss ideas and try a new instruction.
-	* As they give instructions, **a player from Team A will write down the instructions that work.**
-	* When the design is complete, it is Team B’s turn to give instructions and write down the instructions.
-6. Explain that each team has created instructions. They will give their written instructions to a new team (Team C) to follow.
-7. Invite teams to see if Team C could create the design.
+
+	NOTES
+	* Team A cannot point or demonstrate when they give instructions. 
+	* They can only use words.
+	* Team B might not follow the instructions correctly. 
+	* If this happens, Team A can discuss ideas and try a new instruction.
+	* A player from Team A will write down the instructions that work.
+	* When the design is complete, change teams giving instructions.
+
+**5.** Explain that each team has created instructions. They will give their written instructions to a new team (Team C) to follow.
+
+**6.** Invite teams to see if Team C could create the design.
 
 
-### Reflection
+## Reflection
 
 * Was it easy or challenging to give instructions?
 * What were some of the challenges?
@@ -57,7 +63,7 @@ This introductory game invites each group of participants to experience what is 
     	* Can players give clear and effective instructions?
 		* Are players becoming frustrated?
 
-
+<!-- 
 ## Robot Game
 > To give instructions to meet a goal
 
@@ -108,4 +114,4 @@ The Programmer can use only a simple set of instructions or cards which can be w
 
 
 		TEACHING NOTES
-		* Identify if they can make the algorithm even shorter
+		* Identify if they can make the algorithm even shorter -->

@@ -25,7 +25,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **Materials:**: Scratch 3.0 platform
 
-## Starting point (10 min.)
+## Starting point
 ##### The first thing to do is to define your starting point:  We choose the top left side of the screen.
 
 <img src="/assets/images/am-scratch/sc-1.png" width="600">
@@ -51,7 +51,7 @@ Scratch is a programming language that allows you to use code blocks to create a
     * Explain When key is pressed block show all the possibilities
     * Explain why the code is only added to the sprite when it is selected
 
-## ‘Centric’ moving with Scratch (10 min.)
+## Centric moving
 > Using the move, turn and repeat to reach your goal. 
 
 ##### We will use the event number 1 to activate the centric movement
@@ -80,7 +80,7 @@ Scratch is a programming language that allows you to use code blocks to create a
     * Advancing 400 steps vs using a repetition block
     * Explain why we use a wait block between blocks
 
-## ‘Cartesian’ moving with Scratch (10 min.)
+## Cartesian moving
 > Use the cartesian coordinates to move.  Use a condition to react when a color is touched.
 
 ##### We will use the event number 2 to trigger the cartesian movement

@@ -1,23 +1,14 @@
 # AI Intro
-
-**Recommended grade level:** 4-8
-
-**Recommended duration:** 20 min
-
-**Materials**: Facilitator computer with smartboard/projector/monitor
+> AI: Can we get an AI to see the world?
 
 **Learning objectives:** 
 * Familiarity with AI thinking 
 * Identifying the different parts of training an AI :
     * from building a data set of examples to testing the AI 
 
-## AI 101
-> AI: Can we get an AI to see the world?
-
-
 ## 5 human senses
 > How do babies learn what forks are: 5 human senses
-##### What is a fork?
+<!-- ##### What is a fork? -->
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_1.png)
 
     NOTES:
@@ -26,7 +17,6 @@
 
 ## Collect examples
 > Let’s teach an AI what a fork is: collect examples and identify forks in images
-##### Teaching an AI system
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_2.png)
 
     NOTES:
@@ -37,7 +27,6 @@
 
 ## Input example in your model
 > Input examples and counter example to train your model
-##### Feeding the AI system with examples
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_4.png)
 
     NOTES:
@@ -48,7 +37,6 @@
 
 ## Test your model
 > Test your model with another example, here a spoon 
-##### Testing the AI system % of confidence
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_6.png)
 
     NOTES:
@@ -57,7 +45,6 @@
 
 ## Recap
 > To problem solve with AI, build a model of what a fork looks like
-##### Building the model
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_7.png)
 
     NOTES:
@@ -66,8 +53,6 @@
 
 ## Using AI
 > Use your AI: identify a fork pattern!
-
-##### Building the model
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_8.png)
 
     NOTES:
@@ -80,8 +65,6 @@
 
 ## Why is it so much work?
 > Because your brain is really good at building models of objects
-
-##### We have an amazing brain
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_9.png)
 
 Your brain is really good at building models for objects and identifying them even if not all the parts of the objects are visible

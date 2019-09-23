@@ -60,7 +60,6 @@
 
 ## Machine Learning
 > Machine learning is a technique that teaches computers to do what comes naturally to humans: **learn from experience.**
-
 <img src="./assets/images/am-ai-intro/AI_Intro_Slides_17.png" width="100%">
 
 ## Why is it so much work?
@@ -70,7 +69,7 @@
 Your brain is really good at building models for objects and identifying them even if not all the parts of the objects are visible
 
 ## Self driving cars
-##### Some obvious things for us still very difficult for AI
+> Some obvious things for us still very difficult for AI
 <img src="./assets/images/am-ai-intro/AI_Intro_Slides_18.png" width="100%">
 
 ### CAN DO
@@ -81,7 +80,7 @@ Your brain is really good at building models for objects and identifying them ev
 
 
 ## X-ray diagnosis
-##### AI flourish with rich, large guality data sets
+> AI flourish with rich, large guality data sets
 <img src="./assets/images/am-ai-intro/AI_Intro_Slides_19.png" width="100%">
 
 ### CAN DO

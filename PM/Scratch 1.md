@@ -1,4 +1,4 @@
-## Interactive presentation
+## Scratch presentation
 
 **Recommended grade level:**: grades 3 - 9
 
@@ -24,27 +24,65 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/1.png" width="100%">
 
+* **Select a backdrop** - Click **Choose a backdrop** (in the bottom right corner) and pick a scene from the library that fits your project’s theme. ***ex: Arctic landscape***
 
+<img src="./assets/images/pm-sc1/2.png" width="100%">
 
+* **Select a sprite** -  Delete the cat sprite, then click on **Choose a Sprite** (bottom right corner) and pick a sprite that fits with your theme from the library. ***ex: Bear***
 
+<img src="./assets/images/pm-sc1/3.png" width="100%">
 
-**1.** From the **event** section, drag an **event block** to trigger your action. Ex: **When ‘space’ key is pressed**
+* **Make your sprite talk** - From the **Events** section, drag **when this sprite is clicked** block into the coding area.
 
-**2.** Move your sprite in the top left corner of the stage.  Drag a **go to x: y:** block and a **point in direction 90** block and attach them to your code
+<img src="./assets/images/pm-sc1/4.png" width="100%">
 
-    NOTES
-    * 0,0 is the center of the screen.
-    * The scene dimensions are: -240 +240 on x and -180 +180 on y
+* Click on the **Looks** section and drag the **Say ‘Hello!’ for ‘2’ seconds** block into the coding area and attach it to the bottom of the **when this sprite is clicked** block.
 
-**3.** **Choose a new sprite** the library and place it in the bottom right corner.
+<img src="./assets/images/pm-sc1/5.png" width="100%">
 
-##### Clicking over the cat icon you can choose a new sprite, a ball in the example. 
-![](/assets/images/am-scratch/sc-2.png)
+* Change the text - Type in one of your fun facts! **Ex: My fur is transparent!**
 
-    SPEKAER NOTES
-    * Present the different parts of the scratch interface 
-    * Present the drag and drop and how to delete a block
-    * Explain how the x,y grid works in Scratch - (-240+240, -180+180)
-    * Use the Rotation wheel to show properly how angles work in Scratch
-    * Explain When key is pressed block show all the possibilities
-    * Explain why the code is only added to the sprite when it is selected
+* You are done! Test your code by clicking on your sprite.
+
+## Extension
+
+**Add other sprites** - Reproduce the same code using other sprites that can tell us other facts when they are clicked!  
+
+**Download an image from the internet and use it as a sprite**
+* Use google image to look for pictures of other animals or characters (right-click, save image as) 
+
+        TIP: 
+        Look for images using “white background”, 
+        as part of your search to find images that will be easier to edit.
+
+* Go back to the Scratch interface, click on the **sprite icon** and select **Upload Sprite**
+	
+<img src="./assets/images/pm-sc1/6.png" width="100%">
+
+* Remove the white background:
+    * click on the **Costume tab** on the top left corner of the screen
+    * Click on your **sprite**
+    * Select the void (empty) fill color
+    * Fill the white background with the bucket tool
+
+<img src="./assets/images/pm-sc1/7.png" width="100%">
+
+**Add a title to introduce the project which will disappear when the green flag is clicked**
+
+* **Create your title** - Create a new sprite using the paint tool 
+
+<img src="./assets/images/pm-sc1/8.png" width="100%">
+
+* Select the **Costume** tab 	
+* Write your title using the **T** tool
+
+<img src="./assets/images/pm-sc1/9.png" width="100%">
+
+* **Animate your  title**
+    * Select the **Code** tab,
+    * From the **Events** section, drag the block **when green flag is clicked** into the coding area.
+    * From the **Looks** section, drag a **Hide** block and connect it to your code
+    * From the **Control** section, drag a **Wait for “ 3” seconds** block, connect it to your code and edit the time as required.
+    * From the **Looks** section, drag a **show** block and connect it to your existing code.
+
+<img src="./assets/images/pm-sc1/10.png" width="100%">

@@ -4,7 +4,7 @@
 ## Definition
 > The thinking we do when we formulate something - like a problem or creative work - clearly enough and systematically enough that we could tell a computer - or a human - how to do it.
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_1.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_1.png)
 
     TEACHERS
     * CT comes from classical philosophy
@@ -15,7 +15,7 @@
 ## Decomposition
 > To reduce a complex problem into more simple pieces
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_2.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_2.png)
 
     TEACHERS
     * Use the path of least resistance
@@ -25,7 +25,7 @@
 ## Pattern Recognition
 > To learn how to identify what is similar to: simplify, reduce and apply similar solutions to problems
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_3.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_3.png)
 
     TEACHERS
     * What it’s been repeated several times in this sequence?
@@ -36,7 +36,7 @@
 ## Abstraction
 > To reduce something complex to the most essential useful characteristics
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_4.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_4.png)
 
     TEACHERS
     * The least obvious of all of them
@@ -48,7 +48,7 @@
 ## Algorithms
 > A step by step list or sequence of instructions
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_5.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_5.png)
 
     TEACHERS
     * The world of recipes, lists and daily actions
@@ -57,7 +57,7 @@
 
 ## House Example
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_6.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_6.png)
 
     TEACHERS
     * How would you explain to your class CT in a simple way? 
@@ -66,7 +66,7 @@
 ## Text Challenge 
 > If today is Friday,what is the day after the day before the day before tomorrow?
 
-![](/assets/images/am-ct-intro/CT_Intro_Slides_7.png)
+![](./assets/images/am-ct-intro/CT_Intro_Slides_7.png)
 
     TEACHERS
     * Apply the 4 CT Pillars to find the solution

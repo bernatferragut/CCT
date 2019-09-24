@@ -1,92 +1,103 @@
-## Scratch Quiz
+## Scratch Drawing
 
 **Recommended grade level:**: grades 3 - 9
 
 **Recommended duration:**: 30 min.
 
 **Learning Objectives:**
-* Familiarity with the Scratch environment
-* Introduction to Logic programming 
+* Familiarity with the essential Scratch drawing tools
+* Curriculum connections with their Math and/or Art
 
 **Materials:**: Scratch 3.0
 
-**Warm-up**
-* Create a few examples of closed questions you could ask in a quiz - the questions should have only 2 options for the answer.
-
-**Examples** 
-> Is Sydney the capital of Australia? yes/no
-
-> Is 8x3 = 25? yes/no
-
-> Who/Whom made that cake?
-
 ## Remix
-Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice [LINK]()
+Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice :
+
+* [START HERE](https://scratch.mit.edu/projects/325766838/)
+* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25123810/)
 
 ## Build from Scratch
 
 * Go to: [SCRATCH](https://scratch.mit.edu/) click on start creating
 
-<img src="./assets/images/pm-sc1/1.png" width="100%">
-
-* **Make your sprite talk** - Click on the **Events**  category in the block palette and drag the **when this sprite is clicked** block into the coding area
-
-<img src="./assets/images/pm-sc2/2.png" width="100%">
-
-* **Ask a question:** From the **Sensing** section, drag the **Ask ‘What is your name’ and wait** block to the coding area and add it to your code.
-
-<img src="./assets/images/pm-sc2/3.png" width="100%">
-
-* **Add your question** - Double click in the white bubble to select the text and write your question.
-
-* From the **Control** section, drag **if/then/else** block and add it to your code.
-
-**Check the answer:**  From the **Operator** section, drag the hexagonal **comparison block with an equal sign** into the coding area and place it inside the blank spot between the “if” and the “then” of the **if/then/else** block.
-
-<img src="./assets/images/pm-sc2/4.png" width="100%">
-
-* From the **Sensing** section, drag the **answer** block and insert it in on the left-hand side of the comparison block.
-
-<img src="./assets/images/pm-sc2/5.png" width="100%">
-
-* In the green **comparison** block, on the right-hand side of the equal sign, write one of the two possible answers.
-* From the **Looks** section, drag two **say “Hello!” for 2 seconds** blocks into the coding area and place them between the branches of the **if/then/else** block. 
-
-<img src="./assets/images/pm-sc2/6.png" width="100%">
-
-* Change the text in the **say** block according to the comparison, for example, “Good job” for the correct answer and “Try again!” for the incorrect answer
-
-* You are done! Test your code by clicking on your sprite 
+<img src="./assets/images/pm-sc3/1.png" width="100%">
 
 
-## Extension
+## Set up
 
-**Add more questions** to your quiz by connecting the same sequence of blocks to your code and changing the question and the associated answer to compare to.
+ **1.** **Choose your sprite** - Choose the sprite you want to draw your shape with from the library (we suggest using an arrow to help visualize changes in direction).
 
-**Change the sprite’s appearance** when the answer is correct.
+<img src="./assets/images/pm-sc3/2.png" width="100%">
 
-From the **Look** section, drag the **switch to “costume1"** block and add it to your code.
+**2.** Click on the lower left-hand corner **extension** symbol
+
+<img src="./assets/images/pm-sc3/3.png" width="100%">
+
+**3.** **Add the drawing extension** - Select the **PEN** extension which make the **PEN blocks** available at the bottom of your Block palette. 
+
+<img src="./assets/images/pm-sc3/4.png" width="100%">
+
+**4.** **Create a blank canvas** - From **Events**, drag a **when a space is clicked** block in the coding area. Drag an **erase all** block and add it to your code.
+
+<img src="./assets/images/pm-sc3/5.png" width="100%">
+
+**5.** **Define your reset button** - Move your sprite to the position you want it to start at and use a **go-to x: y:** from the **motion** section and a **point in the direction 90**.
+
+<img src="./assets/images/pm-sc3/6.png" width="250px">
+
+## Draw a Square
+> Learn how to draw a square
+
+* From the **event** section, drag an **event block** to trigger your action. Ex: **When‘s’ key is pressed**
+
+* **Draw** - to draw add a **pen down** block to your code 
+
+* From the **motion** section drag a move block and a turn block adjust the steps to be 200 and the angle to be 90°
+
+<img src="./assets/images/pm-sc3/7.png" width="100%">
+
+* **Repeat** - from the **control** section drag a repetition block and insert it around the move and turn block. Adjust the repetition number to draw a square. 
+
+<img src="./assets/images/pm-sc3/8.png" width="100%">
+
+* Your first drawing of a square with code!
+
+<img src="./assets/images/pm-sc3/10.png" width="100%">
+
+## Extension challenge
+> draw a circle and a hexagon
+
+        NOTE
+        * You can draw a Mandala by putting an extra loop over the code 
+        of a geometric shape to repeating 
+
+### Experiment with other blocks ###
+
+* Change the **color** and **thickness** of your square by using these blocks in your code
+
+<img src="./assets/images/pm-sc3/11.png" width="300px">
+
+        NOTE
+        * There are 200 colors and each one has a number. 
+        If we start at 0 (red) and change the pen color by 10, 
+        as it moves through the loop, 
+        we can get a good sense of what they are. 
 
 
-From the Look section, drag a block **switch to “costume1”** in the bracket of the **if/then/else block** corresponding to the correct answer. 
-	
-<img src="./assets/images/pm-sc2/7.png" width="100%">
+## Create a drawing machine
+> Create a never-ending drawing machine
 
-* Select your **costume2** variable in the drop-down list by clicking on the **arrow on the side.**
+* **Update your reset button** - Change the angle of your reset button to be different than 90° so that your machine doesn’t only draw a horizontal straight line.
 
+<img src="./assets/images/pm-sc3/12.png" width="100%">
 
-* **Keeping score** - From the **Variables** section, click the **Make a Variable** button and name the variable score.
+* From the **event** section, drag an **event block** to trigger your action. Ex: **When ‘d’ key is pressed.** 
+* From the pen section, use a block **pen down** to start drawing 
+* From the **control** section use a forever repetition block (so that your machine never stops)
+* From the **motion** section drag a **move 10 steps** and an **if on edge bounce** and place it inside the forever loop.
 
-<img src="./assets/images/pm-sc2/8.png" width="100%">
+<img src="./assets/images/pm-sc3/13.png" width="100%">
 
-* Drag the **set my variable to 0** block and attach it to the **when my sprite is clicked** block.
+* You can also add a block **change pen color** to change the colors!
 
-<img src="./assets/images/pm-sc2/9.png" width="100%">
-
-* Select your **score** variable in the drop-down list by clicking on the **arrow** on the right of the variable.
-
-* From the **variables** section, drag **2** blocks **change “my variable” by “1”** to the coding area. Add one **change “my variable” by “1”** to each of the brackets of the **block if/then/else**. Select your **score** variable in the drop-down list by clicking on the **arrow** on the right of **“my variable”.**
-
-* Update **change “my score” by “1”** score value to **“1”** for the correct answer and to “-1” for the incorrect answer.
-
-<img src="./assets/images/pm-sc2/10.png" width="100%">
+<img src="./assets/images/pm-sc3/14.png" width="100%">

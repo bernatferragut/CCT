@@ -8,8 +8,7 @@
 
     TEACHERS
     * CT comes from classical philosophy
-    * How the human mind thinks and finds solutions to problems?
-    * From Greeks, Al-Kwarizhmi, Llull, Newton, Leibniz to Allan Turing
+    * How the human mind think and finds solutions to problems?
     * The 4 Pillars are in no specific order
 
 ## Decomposition

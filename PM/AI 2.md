@@ -1,4 +1,4 @@
-# AI LITERATURE
+# AI Literature
 
 > Extra Activities
 

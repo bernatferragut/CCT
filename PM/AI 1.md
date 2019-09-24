@@ -1,4 +1,4 @@
-# AI DIGITAL CITIZENSHIP
+# AI Digital Citizenship
 
 > Extra Activities
 

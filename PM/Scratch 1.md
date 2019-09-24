@@ -1,4 +1,4 @@
-## Scratch presentation
+## Scratch Presentation
 
 **Recommended grade level:**: grades 3 - 9
 

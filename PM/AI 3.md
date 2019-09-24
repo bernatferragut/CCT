@@ -1,4 +1,4 @@
-# AI HANDS-ON
+# AI Hands-On
 
 > Learning Objectives
 

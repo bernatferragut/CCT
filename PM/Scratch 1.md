@@ -48,12 +48,16 @@ Click on this link to see an example of a project you can remix to make a simila
 
 **Add other sprites** - Reproduce the same code using other sprites that can tell us other facts when they are clicked!  
 
-**Download an image from the internet and use it as a sprite**
-* Use google image to look for pictures of other animals or characters (right-click, save image as) 
+* **Download an image from the internet and use it as a sprite**
 
-        TIP: 
-        Look for images using “white background”, 
-        as part of your search to find images that will be easier to edit.
+* Use google image to look for pictures of other animals or characters (right-click, save image as). 
+
+* Use the Tools section of the google image search bar to filter pictures by Usage rights select Labeled for reuse
+        
+        TIP
+        Look for images using “white background” as part of your search to find images that will be easier to edit.
+        Go back to the Scratch interface, click on the sprite icon and select Upload Sprite 
+	
 
 * Go back to the Scratch interface, click on the **sprite icon** and select **Upload Sprite**
 	

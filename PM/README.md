@@ -2,10 +2,6 @@
 
 > Afternoon topics
 
-**Microbits**
-* Interface introduction 
-* Basic code
-
 **Explorations**
 * Introduction
 

@@ -49,11 +49,12 @@ Anything from a digital basketball game to passing secret messages or creating a
             * Show a where the tutorials are in the makecode platform 
 
 ## Download your Program
-**1.** Connect your micro:bit to your computer using a USB cable. 
+**1.** Connect your micro:bit to your computer using a USB cable.
+
 **2.** The micro:bit will show up as a drive called **MICROBIT**
+
 **3.** On the Makecode platform, after creating your code, press the **Download** button in order to save your code.
 	
-<!-- [VIDEO](/assets/images/videos/A.mp4) -->
 <video width="100%" height="" controls>
     <source src="/assets/images/videos/A.mp4" type="video/mp4">
 </video>
@@ -61,7 +62,6 @@ Anything from a digital basketball game to passing secret messages or creating a
 **4.** Save it as a .hex file, which is a format that the micro:bit can understand.
 Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your code to the micro:bit.
 
-<!-- [VIDEO](/assets/images/videos/B.mp4) -->
 <video width="100%" height="" controls>
     <source src="/assets/images/videos/B.mp4" type="video/mp4">
 </video>

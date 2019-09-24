@@ -7,10 +7,11 @@
 * Introduction
 
 **Visual Block Coding**
-* Scratch
+* Scratch Introduction
+* Scratch Hands On
+* Microbit Introduction
 
 **Artificial Intelligence**
-* Unplugged activity
 * Introduction
 * Hands-on
 * Ethics

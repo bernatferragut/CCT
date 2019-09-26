@@ -25,7 +25,6 @@ module.exports = {
                 'Explorations',
                 'AI 1',
                 'AI 2',
-                'AI 3',
                 'Scratch 1',
                 'Scratch 2',
                 'Scratch 3',

@@ -1,13 +1,13 @@
 ## Scratch Presentation
 
-**Recommended grade level:**: grades 3 - 9
-
-**Recommended duration:**: 30 min.
-
 **Learning Objectives:**
 * Create an interactive presentation on a subject of your choice using Scratch. - [GLOBAL GOALS LINK](https://kidscodejeunesse.org/global-goals)
 * Introduction to storytelling using Scratch
 * Familiarity with the Scratch environment 
+
+**Recommended grade level:**: grades 3 - 9
+
+**Recommended duration:**: 45 min
 
 **Materials:**: Scratch 3.0
 
@@ -64,7 +64,7 @@ Click on this link to see an example of a project you can remix to make a simila
 <img src="./assets/images/pm-sc1/6.png" width="100%">
 
 * Remove the white background:
-    * click on the **Costume tab** on the top left corner of the screen
+    * Click on the **Costume tab** on the top left corner of the screen
     * Click on your **sprite**
     * Select the void (empty) fill color
     * Fill the white background with the bucket tool

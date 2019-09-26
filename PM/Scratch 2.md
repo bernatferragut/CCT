@@ -1,12 +1,12 @@
 ## Scratch Quiz
 
-**Recommended grade level:**: grades 3 - 9
-
-**Recommended duration:**: 30 min.
-
 **Learning Objectives:**
 * Familiarity with the Scratch environment
 * Introduction to Logic programming 
+
+**Recommended grade level:**: grades 3 - 9
+
+**Recommended duration:**: 30 min.
 
 **Materials:**: Scratch 3.0
 
@@ -29,7 +29,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/1.png" width="100%">
 
-* **Make your sprite talk** - Click on the **Events**  category in the block palette and drag the **when this sprite is clicked** block into the coding area
+* **Make your sprite talk** - Click on the **Events**  category in the block palette and drag the **when this sprite is clicked** block into the coding area.
 
 <img src="./assets/images/pm-sc2/2.png" width="100%">
 
@@ -37,7 +37,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc2/3.png" width="100%">
 
-* **Add your question** - Double click in the white bubble to select the text and write your question.
+* **Add your question** - Double click on the white bubble to select the text and write your question.
 
 * From the **Control** section, drag **if/then/else** block and add it to your code.
 

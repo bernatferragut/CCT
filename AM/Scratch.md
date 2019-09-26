@@ -20,7 +20,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 * Learn how to move using a centric system (like a GPS)
 * Learn how to move using the cartesian system (XY coordinates)
 
-**Recommended grade level:**: grades 5 - 7
+**Recommended grade level:**: grades 3 - 7
 
 **Recommended duration:**: 30 min.
 

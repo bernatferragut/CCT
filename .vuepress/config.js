@@ -28,7 +28,7 @@ module.exports = {
                 'Scratch 1',
                 'Scratch 2',
                 'Scratch 3',
-                'Microbit 1',
+                'Artbit 1',
                 'Microbit 2',
                 'Microbit 3'
             ],

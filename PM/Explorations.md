@@ -19,6 +19,8 @@
 * Inspirational video example 
 * Maybe some short examples of exercises made by teachers
 
+<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
+
 
 **Table System:** ( Andy )
 Assign tables randomly to facilitate collaboration.  Create color-coded name tags and participants sit at the table connected to their color.
@@ -34,7 +36,6 @@ Build a form with specific  ‘strategic’ questions to help teachers make the 
 
 [Padlet](https://padlet.com/martha20/nqnoopjdto17)
 [Form](https://docs.google.com/forms/d/e/1FAIpQLSf-vEHpdB3vQWxl0nFns8xA-mqRtBLUsvV4em47uemIgHLtpg/viewform?usp=sf_link)
-
 
 
 * A specific concrete example connection.

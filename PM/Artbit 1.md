@@ -1,4 +1,4 @@
-## Artbit
+## Artbit Storytelling
 > Storytelling with code
 
 **Learning Objectives:**
@@ -98,7 +98,7 @@ From the **light** section drag a **set shape** block and from the operator sect
 
 ## Extension
 
-For more project ideas and other fun shapes to draw check our activity cards LINK
+For more project ideas and other fun shapes to draw check our activity cards [LINK](https://kidscodejeunesse.org/artbit.ios/data/artbit_activity_deck.pdf)
 
 ## Reflection
     * What problems did they encounter? 

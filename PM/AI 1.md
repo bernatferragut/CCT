@@ -63,7 +63,7 @@ Just yourself? Your parents? Your teachers? (Scratch account)
 
 
 **Reference**
-This activity is inspired by the “Password power-up” activity from Common Sense Media: http://bit.ly/2LGPKNn
+This activity is inspired by the “Password power-up” activity from Common [Sense Media:](http://bit.ly/2LGPKNn)
 
 ## Circle of privacy
 
@@ -130,7 +130,7 @@ Draw 3 columns on the board:
 
 <!-- <img src="./assets/images/pm-ai-info/info.png" width="100%"> -->
 
-| OK TO SHARE ONLINE | SOMETIMES TO SHARE ONLINE | NEVER OK TO SHARE ONLINE |
+| OK TO SHARE ONLINE | SOMETIMES OK TO SHARE ONLINE | NEVER OK TO SHARE ONLINE |
 |--------------------|---------------------------|--------------------------|
 
 Ask students to place each following information in the appropriate column: 

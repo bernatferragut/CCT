@@ -43,7 +43,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 **5.** **Define your reset button - clean your canvas before drawing**  - In the Stage section, use your mouse to move your sprite to the position you want to start drawing at. From the **Motion** section, drag the **go-to x: y:** block and the **point in the direction 90** block into the coding area.
 
-<img src="./assets/images/pm-sc3/6.png" width="250px">
+<img src="./assets/images/pm-sc3/6.png" width="100%">
 
 ## Draw a Square
 > Learn how to draw a square

@@ -19,7 +19,6 @@ Create a safe space for your students to share about experiences and online habi
 
 **Do you know other online platforms that use AI?** 
 
-* Do you know other online platforms that use AI? 
 * Did you know that Youtube, Instagram, netflix use AI?  
 * AI are learning from example, from input data. What “examples” or “input data” could it be using on the platforms mentioned previously?
 

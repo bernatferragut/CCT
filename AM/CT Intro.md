@@ -60,7 +60,7 @@
 
     TEACHERS
     * How would you explain to your class CT in a simple way? 
-    * Using'drawing'you can include all your students o learn CT
+    * Using'drawing'you can include all your students to learn CT
 
 ## Text Challenge 
 > If today is Friday,what is the day after the day before the day before tomorrow?

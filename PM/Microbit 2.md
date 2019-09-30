@@ -104,7 +104,7 @@
 * From the **Basic** section, drag either two **show icon** blocks or two **show leds** bocks into the coding area and insert them in the brackets of the **if “true” then /else** block. 
 
 * *Change the icons or draw the images that will indicate what the result of the comparison is
- ***Ex.  when temperature > 15 display a duck  < 15 display a snowflake***
+ ***Ex.  when temperature > 15 display a duck  < 15 display a house***
 
 ## Activity Ideas
 * **Surface temperatures:** 

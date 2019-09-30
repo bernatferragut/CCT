@@ -56,6 +56,15 @@ From the **Event** section, drag three different events to trigger each shape (w
 From the **Light** section add **set shape** blocks to your event blocks and change the number of the shape accordingly 
 Trigger your story by pressing the buttons
 
+## Randomize yout story
+> Shake up the story with randomization.
+
+<img src="./assets/images/pm-ab1/7.png" width="100%">
+
+Remove the code under the **when A pressed** block.
+
+From the **light** section drag a **set shape** block and from the operator section drag a **comparison** block with an **equal** sign and insert it into the set shape block
+
 ## Animate each shape
 > Turn each shape into a looped animation.
 
@@ -86,15 +95,6 @@ Trigger your story by pressing the buttons
 
 #### Double click over the text to name your project
 <img src="./assets/images/pm-ab1/6.png" width="100%">
-
-## Randomize yout story
-> Shake up the story with randomization.
-
-<img src="./assets/images/pm-ab1/7.png" width="100%">
-
-Remove the code under the **when A pressed** block.
-
-From the **light** section drag a **set shape** block and from the operator section drag a **comparison** block with an **equal** sign and insert it into the set shape block
 
 ## Extension
 

@@ -5,13 +5,12 @@ module.exports = {
         logo: '/assets/images/logo.png',
         nav: [
             {text: 'Home', link: '../'},
-            {text: 'AM', link: '/AM/'},
-            {text: 'PM', link: '/PM/'},
-            {text: 'FORMS', link: '/FORMS/'},
+            {text: 'Introductions', link: '/Introductions/CT Unplugged/'},
+            {text: 'Explorations', link: '/Explorations/Explorations/'},
+            {text: 'Forms', link: '/Forms/'},
         ],
         sidebar: {
-            '/AM/': [
-                '',
+            '/Introductions/': [
                 'CT Unplugged',
                 'CT Intro',
                 'Scratch',
@@ -20,8 +19,7 @@ module.exports = {
                 'AI Hands On',
                 'AI Ethics',
             ],
-            '/PM/': [
-                '',
+            '/Explorations/': [
                 'Explorations',
                 'AI 1',
                 'AI 2',
@@ -32,7 +30,7 @@ module.exports = {
                 'Microbit 2',
                 'Microbit 3'
             ],
-            '/FORMS/': [
+            '/Forms/': [
                 '',
             ]
           }

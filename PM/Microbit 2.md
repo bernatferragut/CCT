@@ -111,3 +111,5 @@
 > Measure the temperature on black and white surfaces outdoors
 * **Introducing climate change:** 
 > Compare the temperature measured today with the average temperature over the last decade in your city
+* **Projetcs for children and teens to combine creativity and technology in solutions for the Global Goals**
+> [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/)

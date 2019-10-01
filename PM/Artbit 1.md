@@ -96,15 +96,9 @@ From the **light** section drag a **set shape** block and from the operator sect
 #### Double click over the text to name your project
 <img src="./assets/images/pm-ab1/6.png" width="100%">
 
-## Extension
 
-For more project ideas and other fun shapes to draw check our activity cards [LINK](https://kidscodejeunesse.org/artbit.ios/data/artbit_activity_deck.pdf)
+## Activity Ideas
 
-## Reflection
-    * What problems did they encounter? 
-    * How were these problems solved?
-    * What was fun?
-    * What was challenging?
-
-
+* **Download our free activity cards to create your first art:bit animation in minutes!**
+> [Get Cards](https://kidscodejeunesse.org/artbit.ios/data/artbit_activity_deck.pdf)
 

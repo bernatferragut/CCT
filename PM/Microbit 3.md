@@ -83,5 +83,10 @@ Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your co
 
  * Measure how far the signal can travel by using a step counter LINK.
 
-## References
-[Inspirational games created around the MB Radio extension](https://makecode.microbit.org/_LMqWVJWC5Da1)
+## Activity Ideas
+* **Inspirational games created around the MB Radio extension**
+> [Microbit Radio Games](https://microbit-radio-games.kidscodejeunesse.org/)
+
+* **Projetcs for children and teens to combine creativity and technology in solutions for the Global Goals**
+> [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/)
+

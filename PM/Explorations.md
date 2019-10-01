@@ -19,15 +19,21 @@
 * Inspirational video example 
 * Maybe some short examples of exercises made by teachers
 
-<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
-
-
-**Table System:** ( Andy )
+**Table System** ( Andy )
 Assign tables randomly to facilitate collaboration.  Create color-coded name tags and participants sit at the table connected to their color.
+
+<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
 **Introduction** ( Andy ):
 Explorations is a chance to explore short activities and give you a chance to discuss how these skills could be brought into your classroom.
 Use the time to discuss with your peers and keep in mind that you will need to fill out a form at the end to indicate how the connections might be made in your specific teaching context.
+
+**Inspiration**
+
+<video width="100%" height="" controls>
+    <source src="/assets/images/videos/INSP.mp4" type="video/mp4">
+</video>
+
 
 **Forms** ( Andy )
 

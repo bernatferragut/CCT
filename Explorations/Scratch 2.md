@@ -45,7 +45,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc2/4.png" width="100%">
 
-* From the **Sensing** section, drag the **answer** block and insert it in on the left-hand side of the comparison block.
+* From the **Sensing** section, drag the **answer** block and add it in on the left-hand side of the comparison block.
 
 <img src="./assets/images/pm-sc2/5.png" width="100%">
 

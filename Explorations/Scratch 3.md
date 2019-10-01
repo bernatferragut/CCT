@@ -56,7 +56,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc3/7.png" width="100%">
 
-* **Draw the other sides** - From the **Control** section, drag the **Repeat** block into the coding area and insert it around the move and turn block. Adjust the repeat number to draw a square. 
+* **Draw the other sides** - From the **Control** section, drag the **Repeat** block into the coding area and add it around the move and turn block. Adjust the repeat number to draw a square. 
 
 <img src="./assets/images/pm-sc3/8.png" width="100%">
 

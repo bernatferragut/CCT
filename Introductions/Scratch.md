@@ -118,7 +118,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **4.**  From the **Control** section, drag the **if/then** block into the coding area. This block allows us to check if a condition is being met (if the statement true or false).
 
-**5.** **Say ‘Hello World” when the cat touches the ball** - From the **Sensing** section, drag the **touching color** block and insert it into the **if/then** block in the empty space between the **‘if’**  and the **‘then’**. 
+**5.** **Say ‘Hello World” when the cat touches the ball** - From the **Sensing** section, drag the **touching color** block and add it into the **if/then** block in the empty space between the **‘if’**  and the **‘then’**. 
 
 ##### Use the touching color block under the Sensing section
 ![](./assets/images/am-scratch/sc-8.png)
@@ -128,7 +128,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ##### Use the color picker to select the color you want to react from
 ![](./assets/images/am-scratch/sc-9.png)
 
-**7.** From the **Looks** section, drag the **Say “Hello” for 2 seconds** block into the coding area and insert it into the **if/then** block. Update the text so that it says **“Hello World!”**
+**7.** From the **Looks** section, drag the **Say “Hello” for 2 seconds** block into the coding area and add it into the **if/then** block. Update the text so that it says **“Hello World!”**
 
 
 ##### Enjoy the final result: Hello World!

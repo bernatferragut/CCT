@@ -12,7 +12,7 @@ Padlet to help you share your presentation in public and between your peers.
 
 
 ## Teacher Training Form
-Form to help us make this workshop better in the future and help more teachers get introduce to coding and computet ethics.
+Form to help us make this workshop better in the future and help more teachers get introduced to coding and computer ethics.
 
 [ALIX LINK]()
 

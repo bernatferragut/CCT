@@ -15,10 +15,10 @@
 
 * iPads 
 * [art:bit app installed](https://apps.apple.com/ca/app/art-bit/id1444361438)
-* micro:bits with popper hex file installed
+* [micro:bits with hex file installed](https://kidscodejeunesse.org/artbit.ios/pairing-demo)
 * Smartboard/projector/monitor to show the code
 * Ipad connector to VGA
-* 20 sets of three  5x5 grid cards, post-its or graph paper
+* Graph paper
 * Pencils
 
 ## Introduction

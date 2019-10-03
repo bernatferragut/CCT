@@ -18,18 +18,18 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 ## Table System
 > You will be divided into:
 
-**Grade Groups**
+**1. Grade Groups**
 * Primary K-2
 * Junior 3-6
 * Intermediate 7 8
 * Secondary 9-12
 
-**Choice of Interest** 
+**2. Choice of Interest** 
 > **You can choose 2 activities of 45 min each**
 
 <img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
-**Experience level**
+**3. Experience level**
 * Comfort Level 1
 * Comfort Level 2
 * Comfort Level 3

@@ -31,15 +31,16 @@
         NOTE
         50 examples per category is enough to train this model.
 
-        train 3 categories: 
+**Train 3 categories**
 
-        GREEN: the sign for please 
+> **GREEN:** the sign for please 
 
-        PURPLE: the sign for hello 
+> **PURPLE:** the sign for hello 
 
-        ORANGE: standing still - no movements
+> **ORANGE:** standing still - no movements
 
 **Extension** 
+
 You can try training the Machine with these other sign
 
 You can try to change the background by rotating your computer 45° on the right or the left and see if the training still works

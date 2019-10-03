@@ -89,9 +89,9 @@ Write the code you need to animate your first two shapes.
 
 **3** Update the number for the number of repetitions you would like your animation to go for.
 
-**4.** Test your animation by pressing the A button on your micro:bit! 
+**4.** Test your animation by pressing the **A button** on your micro:bit! 
 
-Write the code to animate your other two shapes by repeating the steps and changing the values to correspond to the shapes you are working with.
+**5.** Write the code to animate your other two shapes by repeating the steps and changing the values to correspond to the shapes you are working with.
 
 
 <img src="./assets/images/pm-ab1/5.png" width="100%">

@@ -1,32 +1,9 @@
-# Explorations Intro
+# Explorations
 
-**Learning Objectives:**
-* Present the afternoon format of Explorations in general
-* Show the ‘Explorations Map’ with the different tables and exercises.
-* Explain which are the ‘Rules’ to follow. 
-* They can only choose 2 tables ( 45min each).
+**Introduction**
 
-
-**Recommended grade level:** Teachers first and second grade
-
-**Recommended duration:**: 90 min
-
-**Materials:**
-* Makecode platform for Microbit ( Microbits )
-* Art:bit platform for the Art:bit ( Ipads and Microbits )
-* Scratch 3.0 platform for Scratch
-* Ai related material
-* Inspirational video example 
-* Maybe some short examples of exercises made by teachers
-
-**Table System** ( Andy )
-Assign tables randomly to facilitate collaboration.  Create color-coded name tags and participants sit at the table connected to their color.
-
-<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
-
-**Introduction** ( Andy ):
 Explorations is a chance to explore short activities and give you a chance to discuss how these skills could be brought into your classroom.
-Use the time to discuss with your peers and keep in mind that you will need to fill out a form at the end to indicate how the connections might be made in your specific teaching context.
+Use the time to discuss with your peers and keep in mind that you will need to fill out a document at the end to indicate how the connections might be made in your specific teaching context.
 
 **Inspiration**
 
@@ -35,17 +12,32 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 </video>
 
 
-**Forms** ( Andy )
+## Groups Form
+* [Fill the form](https://training.kidscodejeunesse.org/Forms/)
 
-Build a form with specific  ‘strategic’ questions to help teachers make the right ‘curriculum’ connections with their own classes.
+## Table System
+> You will be divided into:
 
+**Grade Groups**
+* Primary K-2
+* Junior 3-6
+* Intermediate 7 8
+* Secondary 9-12
 
-[Padlet](https://padlet.com/martha20/nqnoopjdto17)
-[Form](https://docs.google.com/forms/d/e/1FAIpQLSf-vEHpdB3vQWxl0nFns8xA-mqRtBLUsvV4em47uemIgHLtpg/viewform?usp=sf_link)
+**Choice of Interest** 
+> **You can choose 2 activities of 45 min each**
 
+<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
-* A specific concrete example connection.
-* A more general example connection.
-* Anything else we think it is important to add or collect data from.
+**Experience level**
+* Comfort Level 1
+* Comfort Level 2
+* Comfort Level 3
 
+## Presentations
 
+* At the end of the day one person per table will share what they have learned and the connections made with their school curriculum.
+
+* All the results will be shared with all the assistants through the Google Drive so they can see and learn from each other.
+
+* [LINK TO TABLE PRESENTATIONS](https://docs.google.com/document/d/14RZRflq1zC4FCBXam_kCOyZjY10uCIn95P6xQ4Ki98o/edit?usp=sharing)

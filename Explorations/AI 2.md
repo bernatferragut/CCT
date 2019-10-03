@@ -28,6 +28,13 @@
 * Train model to recognize gestures. The result of that training will be displayed by a GIF. 
 * For the first category sign “please” by pressing and holding the train green button. It will add photos of you (training data) in the green category
 
+
+<img src="./assets/images/pm-ai-tm/please.jpg" width="25%">
+
+##### Sign for please while pressing the train green button
+
+<img src="./assets/images/pm-ai-tm/confidence.png" width="75%">
+
         NOTE
         50 examples per category is enough to train this model.
 
@@ -35,13 +42,19 @@
 
 > **GREEN:** the sign for please 
 
+<img src="./assets/images/pm-ai-tm/please.jpg" width="25%">
+
 > **PURPLE:** the sign for hello 
+
+<img src="./assets/images/pm-ai-tm/hello.jpg" width="25%">
 
 > **ORANGE:** standing still - no movements
 
 **Extension** 
 
 You can try training the Machine with these other sign
+
+<img src="./assets/images/pm-ai-tm/signs.jpg" width="100%">
 
 You can try to change the background by rotating your computer 45° on the right or the left and see if the training still works
 You can also try having someone do the signs in front of the camera and see if it still works 

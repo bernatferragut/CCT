@@ -22,7 +22,7 @@ Anything from a digital basketball game to passing secret messages or creating a
 
 
 
-## Makecode Platform Intro  (5 min.)
+## Makecode Platform Intro
 > Introduction of the MakeCode Interface and its similarities with Scratch.
 
 ##### The Makecode Platform main interface
@@ -32,7 +32,7 @@ Anything from a digital basketball game to passing secret messages or creating a
     * Introduce the MakeCode Interface and show its similarities with Scratch
     * Similarites: block palette, simulator - stage, coding area
 
-## Makecode platform code example (10 min.)
+## Makecode platform code example
 > Comments on some simple code to see how easy is to work with.
 
 ##### The Makecode Platform main interface

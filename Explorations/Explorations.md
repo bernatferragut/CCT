@@ -1,36 +1,38 @@
 # Explorations
 
-**Introduction**
+## Introduction
 
-Explorations is a chance to explore short activities and give you a chance to discuss how these skills could be brought into your classroom.
-Use the time to discuss with your peers and keep in mind that you will need to fill out a document at the end to indicate how the connections might be made in your specific teaching context.
+* **Find your group** and start brainstorming ideas around Scratch, AI or Micro:bit. 
+
+* **Explore our short activities** and start thinking about project ideas for your classroom. 
+
+* With your peers, you can **discuss how the technology you have just discovered can fit in your teaching**. 
+
+* **Fill out a note document** a chance to present your discoveries to your peers in a **short pitch.**
+
+## Groups-Maker
+* [Fill the Groups Making Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
 
 **Inspiration**
+
+A video of a class created projects using technology  around the [UN global goals](https://www.globalgoals.org/)
 
 <video width="100%" height="" controls>
     <source src="/assets/images/videos/INSP.mp4" type="video/mp4">
 </video>
 
 
-## Groups Form
-* [Fill the Groups Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
+## Explorations
+> **2 Activities - 45 min each**
 
-## Table System
-> Paticipants choose **2 activities** and sit in the same grade ane level groups
+In each group select one person to take notes:
+
+* Find **table number** and open the **corresponding document:**
+* [PRESENTATIONS NOTES](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
+* Because the notes are captured on a drive you will be able to access other groups ideas 
 
 <img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
-
 ## Presentations
 
-* At the end of the day one person per table will share what they have learned and the connections made with their school curriculum.
-
-* All the results will be shared with all the assistants through Google Drive so they can see, learn, and be in contact with each other.
-
-* [LINK TO TABLE PRESENTATIONS NOTES](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
-
-    **1.** Choose the **table number** you represent and **open the document**
-
-    **2.** **Fill the document** with your ideas and objectives
-    
-    **3.** Be ready for your turn to **present it to your peers**
+This is the time to share the essence of your project ideas and new encounters with the rest of the group … in 3 min :)

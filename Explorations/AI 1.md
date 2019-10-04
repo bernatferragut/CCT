@@ -130,7 +130,7 @@ Draw 3 columns on the board:
 
 <!-- <img src="./assets/images/pm-ai-info/info.png" width="100%"> -->
 
-| OK TO SHARE ONLINE | SOMETIMES OK TO SHARE ONLINE | NEVER OK TO SHARE ONLINE |
+| OK TO SHARE ONLINE | SOMETIMES OK TO SHARE ONLINE | NEVER OK TO SHARE  ONLINE |
 |--------------------|---------------------------|--------------------------|
 
 Ask students to place each following information in the appropriate column: 

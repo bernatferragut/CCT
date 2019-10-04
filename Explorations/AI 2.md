@@ -17,7 +17,7 @@
 * [Access to The Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 
-## Part 1: Computer vision
+## Teachable Machine
 
 ##### The Teachable Machine landing page
 <img src="./assets/images/pm-ai-tm/pm-tm-1.png" width="100%">
@@ -38,7 +38,7 @@
         NOTE
         50 examples per category is enough to train this model.
 
-**Train 3 categories**
+## Train 3 categories
 
 > **GREEN:** the sign for please 
 
@@ -50,7 +50,9 @@
 
 > **ORANGE:** standing still - no movements
 
-**Extension** 
+<img src="./assets/images/pm-ai-tm/still.png" width="25%">
+
+## Extension
 
 You can try training the Machine with these other sign
 
@@ -59,7 +61,7 @@ You can try training the Machine with these other sign
 You can try to change the background by rotating your computer 45° on the right or the left and see if the training still works
 You can also try having someone do the signs in front of the camera and see if it still works 
 
-**Reflection**
+## Reflection
 
 > Why one category is just about standing still? 
 

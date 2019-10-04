@@ -126,5 +126,5 @@ Test your code!
 ## Activity Ideas
 
 * **Download our free activity cards to create your first art:bit animation in minutes!**
-> [Get Cards](https://kidscodejeunesse.org/artbit.ios/data/artbit_activity_deck.pdf)
+> [Get the Artbit Activities Cards](https://kidscodejeunesse.org/artbit.ios/data/artbit_activity_deck.pdf)
 

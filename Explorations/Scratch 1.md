@@ -50,9 +50,9 @@ Click on this link to see an example of a project you can remix to make a simila
 
 * **Download an image from the internet and use it as a sprite**
 
-* Use google image to look for pictures of other animals or characters (right-click, save image as). 
+* Use **google image** to look for pictures of other animals or characters (**right-click, save image as**). 
 
-* Use the Tools section of the google image search bar to filter pictures by Usage rights select Labeled for reuse
+* Use the **Tools** section of the google image search bar to filter pictures by **Usage rights**, select Labeled for reuse
         
         TIP
         Look for images using “white background” as part of your search to find images that will be easier to edit.
@@ -73,11 +73,11 @@ Click on this link to see an example of a project you can remix to make a simila
 
 **Add a title to introduce the project which will disappear when the green flag is clicked**
 
-* **Create your title** - Create a new sprite using the paint tool 
+* **Create your title** - Create a **new sprite** using the **paint** tool 
 
 <img src="./assets/images/pm-sc1/8.png" width="100%">
 
-* Select the **Costume** tab 	
+* Select the **Costumes** tab 	
 * Write your title using the **T** tool
 
 <img src="./assets/images/pm-sc1/9.png" width="100%">

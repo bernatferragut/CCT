@@ -54,7 +54,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc2/6.png" width="100%">
 
-* Change the text in the **say** block according to the comparison, for example, “Good job” for the correct answer and “Try again!” for the incorrect answer
+* Change the text in the **say** block according to the comparison, for example, **“Good job”** for the correct answer and **“Try again!”** for the incorrect answer
 
 * You are done! Test your code by clicking on your sprite 
 

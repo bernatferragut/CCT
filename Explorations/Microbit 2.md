@@ -1,5 +1,5 @@
 ## Microbit Sensors
-> Storytelling with code
+> Using sensors data to create your projects
 
 **Learning Objectives:**
 * Familiarity with physical computing through micro:bit 

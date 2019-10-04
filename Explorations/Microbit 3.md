@@ -85,7 +85,11 @@ Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your co
 
 ## Activity Ideas
 * **Inspirational games created around the MB Radio extension**
-> [Microbit Radio Games](https://microbit-radio-games.kidscodejeunesse.org/)
+> [Microbit Radio Games: Ball Pass](https://summer-camp-2019.kidscodejeunesse.org/MB1/)
+
+> [Microbit Radio Games: Shoot and Score](https://summer-camp-2019.kidscodejeunesse.org/MB2/)
+
+> [Microbit Radio Games: Long Pass](https://summer-camp-2019.kidscodejeunesse.org/MB3/)
 
 * **Projetcs for children and teens to combine creativity and technology in solutions for the Global Goals**
 > [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/)

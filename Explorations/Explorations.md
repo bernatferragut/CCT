@@ -13,10 +13,10 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 
 
 ## Groups Form
-* [Fill the form](https://training.kidscodejeunesse.org/Forms/)
+* [Fill the Groups Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
 
 ## Table System
-> You will be divided into:
+> Participants will be divided into:
 
 **1. Grade Groups**
 * Primary K-2
@@ -25,7 +25,7 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 * Secondary 9-12
 
 **2. Choice of Interest** 
-> **You can choose 2 activities of 45 min each**
+> **Choose 2 Activities of 45 min each**
 
 <img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
@@ -38,6 +38,12 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 
 * At the end of the day one person per table will share what they have learned and the connections made with their school curriculum.
 
-* All the results will be shared with all the assistants through the Google Drive so they can see and learn from each other.
+* All the results will be shared with all the assistants through Google Drive so they can see, learn, and be in contact with each other.
 
-* [LINK TO TABLE PRESENTATIONS](https://docs.google.com/document/d/14RZRflq1zC4FCBXam_kCOyZjY10uCIn95P6xQ4Ki98o/edit?usp=sharing)
+* [LINK TO TABLE PRESENTATIONS DOCS](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
+
+    **1.** Choose the **table number** you represent and **open the document**
+
+    **2.** **Fill the document** with your ideas and objectives
+    
+    **3.** Be ready for your turn to **present it to your peers**

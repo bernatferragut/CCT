@@ -16,7 +16,11 @@
 * Find some fun and interesting facts that you will then illustrate with characters in your project (ex: Polar bears have translucent hair and black skin to absorb and preserve body heat). - [GET INSPIRATION](http://www.hww.ca/en/)
 
 ## Remix
-Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice [LINK]()
+Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice:
+
+* [START HERE](https://scratch.mit.edu/projects/334025117/editor/)
+
+* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252827/)
 
 ## Build from Scratch
 

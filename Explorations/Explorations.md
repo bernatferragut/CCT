@@ -16,23 +16,10 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 * [Fill the Groups Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
 
 ## Table System
-> Participants will be divided into:
-
-**1. Grade Groups**
-* Primary K-2
-* Junior 3-6
-* Intermediate 7 8
-* Secondary 9-12
-
-**2. Choice of Interest** 
-> **Choose 2 Activities of 45 min each**
+> Paticipants choose **2 activities** and sit in the same grade ane level groups
 
 <img src="./assets/images/pm-ex/ex1.jpg" width="100%">
 
-**3. Experience level**
-* Comfort Level 1
-* Comfort Level 2
-* Comfort Level 3
 
 ## Presentations
 
@@ -40,7 +27,7 @@ Use the time to discuss with your peers and keep in mind that you will need to f
 
 * All the results will be shared with all the assistants through Google Drive so they can see, learn, and be in contact with each other.
 
-* [LINK TO TABLE PRESENTATIONS DOCS](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
+* [LINK TO TABLE PRESENTATIONS NOTES](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
 
     **1.** Choose the **table number** you represent and **open the document**
 

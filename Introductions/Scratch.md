@@ -144,8 +144,9 @@ Scratch is a programming language that allows you to use code blocks to create a
 * Why would you choose one over the other and when?
 
 ## Remix
-* [Remix this exercise to start: ](https://scratch.mit.edu/projects/325327677/editor/)
-* [Scratch Studio](https://scratch.mit.edu/studios/25104660/)
+
+* [START HERE](https://scratch.mit.edu/projects/334022308/editor/)
+* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252799/)
 
 <img src="./assets/images/am-scratch/Map.png" width="100%">
 

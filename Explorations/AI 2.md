@@ -23,7 +23,7 @@
 <img src="./assets/images/pm-ai-tm/pm-tm-1.png" width="100%">
 
 ##### The Teachable Machine interface
-<img src="./assets/images/pm-ai-tm/pm-tm-2.png" width="100%">
+<img src="./assets/images/pm-ai-tm/lucie.png" width="100%">
 
 * Train model to recognize gestures. The result of that training will be displayed by a GIF. 
 * For the first category sign “please” by pressing and holding the train green button. It will add photos of you (training data) in the green category
@@ -33,7 +33,7 @@
 
 ##### Sign for please while pressing the train green button
 
-<img src="./assets/images/pm-ai-tm/confidence.png" width="75%">
+<img src="./assets/images/pm-ai-tm/confidence.png" width="100%">
 
         NOTE
         50 examples per category is enough to train this model.

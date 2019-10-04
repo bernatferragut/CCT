@@ -39,14 +39,17 @@ Anything from a digital basketball game to passing secret messages or creating a
 ![](/assets/images/pm-mb0/mb0-2.png)
 
     TEACHER NOTES
-        * Live code slowly
-        * Encourage people to go on the platform and test the code themselves
-        * Spend some time exploring the Simulator and explain its advantages
-            * Change the icons 
-            * Change the string for their names 
-            * Change shake trigger for A + B
-            * Make sure to mention all the sensors micro:bits have
-            * Show a where the tutorials are in the makecode platform 
+    * Live code slowly
+    * Encourage people to go on the platform and test the code themselves
+
+**EXPLORE** 
+> Using the Online Simulator
+
+* Change the icons 
+* Change the string for their names 
+* Change shake trigger for A + B
+* Make sure to mention all the sensors micro:bits have
+* Show a where the tutorials are in the makecode platform 
 
 ## Download your Program
 **1.** Connect your micro:bit to your computer using a USB cable.
@@ -75,10 +78,8 @@ Note: The micro:bit can only store .hex files and will reject any other type of 
 * Do you understand properly the main differences between both platforms?
 * Why would you choose one over the other in your classes?
 
-## Display
-* Show 2 Microbits sending a message and animated lights at the end
 
 ## Examples 
-* [Chuck the Duck Code]()
-* [Step counter Code]()
+* [Chuck the Duck Code](https://makecode.microbit.org/_hVzKRPEcLRFf)
+* [Step counter Code](https://makecode.microbit.org/_czqim101dc2a)
 

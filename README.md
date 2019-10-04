@@ -2,7 +2,7 @@
 home: true
 heroImage: assets/images/cct.png
 actionText: Get Started
-actionLink: /AM/
+actionLink: /Introductions/
 features:
 - title: EXPLORE EXAMPLES
   details: Choose your preferences

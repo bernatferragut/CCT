@@ -4,7 +4,7 @@ module.exports = {
     themeConfig: {
         logo: '/assets/images/logo.png',
         nav: [
-            {text: 'Home', link: '../'},
+            {text: 'Home', link: '/'},
             {text: 'Introductions', link: '/Introductions/CT Unplugged/'},
             {text: 'Explorations', link: '/Explorations/Explorations/'},
             {text: 'Forms', link: '/Forms/'},

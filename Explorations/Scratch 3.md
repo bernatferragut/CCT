@@ -1,4 +1,4 @@
-## Scratch Drawing
+# Scratch Drawing <span style="color:orange;font-size:1.5rem;">ADVANCED</span>
 
 **Learning Objectives:**
 * Familiarity with the essential Scratch drawing tools

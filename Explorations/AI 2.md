@@ -1,4 +1,4 @@
-# AI Computer Vision
+# AI Computer Vision <span style="color:orange;font-size:1.5rem;">INTERMEDIATE</span>
 
 **Learning Objectives:**
 * Familiarity with the concepts of AI, training process, training data and confidence level.

@@ -1,5 +1,5 @@
-# AI Digital Citizenship
-
+# AI Digital Citizenship <span style="color:orange;font-size:1.5rem;">EASY</span>
+ 
 * These lessons are designed to help students develop safe online habits, maintain a healthy relationship with their screen time and protect their digital privacy. 
 
 * Each lesson starts with a short class discussion to introduce the key concepts. Activities can be done offline. Finally, the lessons ends with a short wrap-up discussion.

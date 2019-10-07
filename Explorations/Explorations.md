@@ -31,7 +31,7 @@ In each group select one person to take notes:
 * [PRESENTATIONS NOTES](https://drive.google.com/drive/folders/1V5kWtV8vPmYO2uAkd5l7rL5bU9Z0gZ64?usp=sharing)
 * Because the notes are captured on a drive you will be able to access other groups ideas 
 
-<img src="./assets/images/pm-ex/ex1.jpg" width="100%">
+<img src="./assets/images/pm-ex/ex1.png" width="100%">
 
 ## Presentations
 

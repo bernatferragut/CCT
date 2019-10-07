@@ -1,4 +1,4 @@
-## Microbit Sensors
+# Microbit Sensors <span style="color:orange;font-size:1.5rem;">INTERMEDIATE</span>
 > Using sensors data to create your projects
 
 **Learning Objectives:**

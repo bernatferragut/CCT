@@ -1,4 +1,4 @@
-## Scratch Quiz
+# Scratch Quiz <span style="color:orange;font-size:1.5rem;">INTERMEDIATE</span>
 
 **Learning Objectives:**
 * Familiarity with the Scratch environment

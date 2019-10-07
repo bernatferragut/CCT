@@ -3,7 +3,7 @@
 ## 1. Groups Form
 Form to help us organize the best possible groups so you can learn as much as you can.
 
-[LINK](https://forms.gle/Nuy15MXiy19wHaQRA)
+[LINK](https://docs.google.com/forms/d/1IXgGEdDu4fuUJy9_qfvHFnY63EA2ucY4QjZR4KcrYbQ/edit?usp=sharing)
 
 ## 2. Presentation Notes
 Document to help you share your presentation in public and between your peers.

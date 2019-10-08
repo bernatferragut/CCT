@@ -18,9 +18,9 @@
 ## Remix
 Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice:
 
-* [START HERE](https://scratch.mit.edu/projects/334025117/editor/)
+* [START HERE](https://scratch.mit.edu/projects/334082831/editor/)
 
-* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252827/)
+* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252820/)
 
 ## Build from Scratch
 

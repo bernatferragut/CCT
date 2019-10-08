@@ -2,7 +2,7 @@
 home: true
 heroImage: assets/images/cct.png
 actionText: Get Started
-actionLink: /CT Unplugged/
+actionLink: /Introductions/CT Unplugged/
 features:
 - title: EXPLORE EXAMPLES
   details: Choose your preferences

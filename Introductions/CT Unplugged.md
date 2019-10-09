@@ -1,7 +1,7 @@
 # CT Unplugged
 > To give instructions to create an image
 
-![](./assets/images/am-unplugged/sticks.png)
+![](./assets/images/am-unplugged/game.png)
 
 **Recommended grade level:** Teachers and students all levels
 

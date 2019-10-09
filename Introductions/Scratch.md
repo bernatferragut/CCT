@@ -20,7 +20,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 * Learn how to move using a centric system (like a GPS)
 * Learn how to move using the cartesian system (XY coordinates)
 
-**Recommended grade level:**: grades 3 - 7
+**Recommended grade level:** grades 3 - 7
 
 **Recommended duration:**: 30 min.
 
@@ -32,7 +32,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 <img src="./assets/images/am-scratch/sc-0.png" width="100%">
 
-> The first thing we do is to make sure we always have our sprite come back to a starting point whenever we choose. 
+> The first thing we do is to make sure we always have our sprite come back to a starting point. 
 
 ##### The first thing to do is to define your starting point:  We choose the top left side of the screen.
 
@@ -44,8 +44,8 @@ Scratch is a programming language that allows you to use code blocks to create a
 **3.** Move your sprite to the top left corner of the stage.  From the **Motion** section,  drag the **go to x: y:** block and the **point in direction 90** block into the coding area and attach them to the **when ‘space’ key pressed** block.
 
     NOTES
-    * 0,0 is the center of the screen.
-    * The scene dimensions are: -240 +240 on x and -180 +180 on y
+    * The coordinates (0, 0) are found at the center of the screen
+    * The scene dimensions are: -240 +240 on the x axis and -180 +180 on the y axis
 
 **4.** **Choose a new sprite**  from the library and place it in the bottom right corner. 
 ***Ex: Beachball***
@@ -61,8 +61,8 @@ Scratch is a programming language that allows you to use code blocks to create a
     * Explain When key is pressed block show all the possibilities
     * Explain why the code is only added to the sprite when it is selected
 
-## Centric moving
-> Using the move, turn and repeat to reach your goal. 
+## Centric movement
+> Using the move, turn and repeat blocks to reach your goal. 
 
 ##### We will use the event number 1 to activate the centric movement
 <img src="./assets/images/am-scratch/sc-3.png" width="100%">
@@ -101,7 +101,7 @@ Scratch is a programming language that allows you to use code blocks to create a
     * Explain why we use a wait block between the turning and the moving
 
 
-## Cartesian moving
+## Cartesian movement
 > Learning to use XY coordinates (cartesian) and a condition to trigger an action.
 
 ##### We will use the event number 2 to trigger the cartesian movement
@@ -140,7 +140,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 
 ## Reflection
-* Do you understand properly the two distinct ways to move in Scratch?
+* Do you understand the two distinct ways to move in Scratch?
 * Why would you choose one over the other and when?
 
 ## Remix

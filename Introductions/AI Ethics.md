@@ -1,6 +1,6 @@
 # AI & Ethics
 
-Create a safe space for your students to share about experiences and online habits and their experiences with the AI they encounter online
+>  It’s important to create a safe space for your students to share their lived experiences with AI online as well as their online habits.
 
 **Recommended grade level:** 4-8
 
@@ -19,8 +19,10 @@ Create a safe space for your students to share about experiences and online habi
 
 **Do you know other online platforms that use AI?** 
 
-* Did you know that Youtube, Instagram, netflix use AI?  
-* AI are learning from example, from input data. What “examples” or “input data” could it be using on the platforms mentioned previously?
+* Did you know that Youtube or Instagram use AI? 
+<!-- * AI are learning from example, from input data. What “examples” or “input data” could it be using on the platforms mentioned previously? -->
+
+* AI gets “smarter” as more data gets added to a data set. Thinking about YouTube, Instagram and Netflix, what data do you think that these systems are gathering from users such as yourselves? 
 
 > These AIs are using your preferences to be trained. Every time you watch a video or do a search in a search bar, this data is stored. 
 
@@ -49,9 +51,9 @@ This comes with 2 side effects:
 
 
 ## Reflection
-**Knowing your bubble gives you the power to:**  
+**Knowing your preference bubble gives you the power to:**  
 
-* Take a step back - Are you always looking at the same kind of video, photos clicking on similar links?
+* Are you always looking at the same kind of videos and photos or clicking on similar links?
 * Check your emotions - Once you are online looking at things how long do you want to stay ? is it what you want to be doing?
 * Curate your content  - expand your bubble talk to your friends, you parents, your teachers about what you look at and get suggestions about what they like to look at 
 

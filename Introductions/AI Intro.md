@@ -16,14 +16,15 @@
     * That way we experience the function of a fork
 
 ## Collect examples
-> Let’s teach an AI what a fork is: collect examples and identify forks in images
+> Let’s teach an AI what a fork is.  The first step would be to collect examples and identify forks in various images. 
+
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_2.png)
 
     NOTES:
-    * To teach computers how to recognize a fork:   
-        * An AI trainer gathers a very large collection of examples (data set)
-        * This data set of images contains forks manually identified 
-    * The more examples we have the better the AI will work
+    To teach computers how to recognize a fork:   
+    An AI trainer gathers a very large collection of examples (data set)
+    This data set of images contains forks manually identified 
+    The more examples we have the better the AI will work
 
 ## Input example in your model
 > Input examples and counter example to train your model
@@ -75,30 +76,30 @@ Your brain is really good at building models for objects and identifying them ev
 ### CAN DO
 * Identify the position of other cars
 
-### CAN NOT
+### CAN'T DO
 * Differentiate hand signs between stop, hitchhikers or bike turning
 
 
 ## X-ray diagnosis
-> AI flourish with rich, large guality data sets
+> AI flourishes with the input of large and high quality sets of data. 
 <img src="./assets/images/am-ai-intro/AI_Intro_Slides_19.png" width="100%">
 
 ### CAN DO
 * Identify pneumonia from 10 000 labeled images
 
-### CAN NOT
+### CAN'T DO
 * Identify pneumonia from 10 images, a textbook chapter and a few clinical cases
 
-
-        References: 
-        * MIYAZAKI, H., et al. (2006). Hauru no ugoku shiro = Howl's moving castle. COLUMBUS, C. et al. (2001).
-        * Harry Potter And the Sorcerer's Stone. BIRD, B., et al. (2007). Ratatouille.
-        * Pexel
-        * The Matlab website
-        * Fork bent by James Rand. Spaghetti wound on a fork close-up by Marco Verch. DOCTER, P., et al. (2015). Inside Out.
-        * Source AI For Everyone Andrew Ng, Coursera, 2018
-        * Eko Siswono Toyudho / Caters New, vox
-        * Pixabay, Lucasfilm Ltd. LLC‎
-        * Zack, Karen. “Chihuahua or Muffin ? Pic.twitter.com/LzZ1lwoVrP.” 
-        * Twitter, Twitter, 10 Mar. 2016, twitter.com/teenybiscuit/status/707727863571582978.
-
+<ul style="color:#87CEFA;font-size:0.75rem;">
+    <bold>References:</bold>
+    <li> MIYAZAKI, H., et al. (2006). Hauru no ugoku shiro = Howl's moving castle. COLUMBUS, C. et al. (2001).</li>
+    <li>Harry Potter And the Sorcerer's Stone. BIRD, B., et al. (2007). Ratatouille.</li>
+    <li>Pexel</li>
+    <li>The Matlab website</li>
+    <li>Fork bent by James Rand. Spaghetti wound on a fork close-up by Marco Verch. DOCTER, P., et al. (2015)</li>.Inside Out.
+    <li>Source AI For Everyone Andrew Ng, Coursera, 2018</li>
+    <li>Eko Siswono Toyudho / Caters New, vox</li>
+    <li>Pixabay, Lucasfilm Ltd. LLC‎</li>
+    <li>Zack, Karen. “Chihuahua or Muffin ? Pic.twitter.com/LzZ1lwoVrP.” </li>
+    <li>Twitter, Twitter, 10 Mar. 2016, twitter.com/teenybiscuit/status/707727863571582978.</li>
+</ul>

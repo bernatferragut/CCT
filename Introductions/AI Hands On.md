@@ -1,12 +1,12 @@
-# AI Hands On
-
-**Recommended grade level:** 4-8
-
-**Recommended duration:** 15 min
+# AI Hands On Activity
 
 **Learning objectives:** 
 * Familiarity with computational practices like abstraction and decomposition
 * Familiarity with AI computer vision (object description by physical characteristics and not usage)
+
+**Recommended grade level:** 4-8
+
+**Recommended duration:** 15 min
 
 **Materials:**
 * [Object cards - Downlod]()
@@ -21,11 +21,11 @@
 
 **3.**  Each group receives one pile of category cards (shape, color, texture, size).
 
-**4.**  Ask a second volunteer to pick a secret object card and show it to class.
+**4.**  Ask a second volunteer to pick a secret object card and show it to the class.
 
-**4.**  Each group picks two category cards from their pile.
+**5.**  Each group picks two category cards from their pile.
 
-**4.**  The cards must describe the object the best. 
+**6.**  The cards must describe the object the best. 
 
 **7.**  Collect the remaining cards from each group. 
 
@@ -39,4 +39,4 @@
 ## Extension 2
 > Challenging version
 * Give the volunteer the category cards selected by the class. 
-* The volunteer guess which object is best described by the selected category cards.
+* The volunteer must guess which object is best described by the selected category cards.

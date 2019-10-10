@@ -33,7 +33,7 @@
 * Connected to MEMORY: Without it, we cannot recognize anything -->
 
 ## Abstraction
-> **Reducing something complex into the most essential characteristics**
+> **Reducing something complex into its most essential characteristics**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_4.png)
 
@@ -45,22 +45,22 @@
 * Fundamental for AI -->
 
 ## Algorithms
-> **A step by step list or sequence of instructions**
+> **A step-by-step list or sequence of instructions**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_5.png)
 
     TEACHERS
     * The world of recipes, lists and daily actions
-    * We all live in our ‘daily algorithm’
-    * Slowly we make algorithms better and better
+    * We all live in our ‘daily algorithms’
+    * Slowly, our algorithms become better and better
 
 ## House Example
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_6.png)
 
     TEACHERS
-    * How would you explain to your class CT in a simple way? 
-    * Using'drawing'you can include all your students to learn CT
+    * How would you explain computational thinking to your class in a simple way?
+    * How would you illustrate the use computational thinking through the action of drawing?
 
 ## Text Challenge 
 > **Applying what you have learned about Computational Thinking**
@@ -68,8 +68,8 @@
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_7.png)
 
     TEACHERS
-    * Apply the 4 CT toolkit to find the solution
-    * Explain your experience problem solving this question
+    * Apply the 4 strategies to find the solution
+    * Explain what strategies you have used to solve this problem
 
 <!-- ## Students Table CT?
 > Computational Thinking is the toolset we use when we translate our human ideas into precise instructions for a computer to carry  out. Those instructions are called **CODE**.
@@ -102,8 +102,8 @@ Observe this table with attention and answer the following questions:
 ![](/assets/images/am-ct-intro/CT_Intro_Slides_10.png)
 
     TEACHERS
-    * Seymour Papert - a Jean Piaget alumnae - invented first LOGO
-    * LOGO is a programming language to teach kids about MATH
+    * Seymour Papert - a Jean Piaget alumnae - first invented LOGO
+    * LOGO is a programming language to teach kids about mathematics
     * Later, one of his students Mitchel Resnick created Scratch
     * Scratch is today’s standard to teach kids and adults how to code
 

@@ -1,31 +1,31 @@
 
-# Microbit Intro
+# Micro:bit Intro
 
-## What is a Microbit?
+## What is a Micro:bit?
 >The BBC micro:bit is a mini-computer that can be programmed to do almost any task! It has a built-in accelerometer, radio transmitter, 5 by 5 LED display and two programmable buttons. 
 
 Powered by a battery pack or by USB, the micro:bit is a powerful tool used to teach programming in a fun and interactive way.
 
 Anything from a digital basketball game to passing secret messages or creating a musical instrument is possible with this device that fits in the palm of your hand.
 
-There are hundreds of activities to choose from that allows for an easy integration of computational thinking into any subject. From a basketball game to creating a digital musical instrument, the options with micro:bit are limitless. 
+There are hundreds of activities to choose from that allows for an easy integration of computational thinking into any subject. The options with micro:bit are limitless. 
 
-## Makecode Platform Intro
+## MakeCode Platform Intro
 > Introduction to the MakeCode interface and its similarities with Scratch.
 
-##### The Makecode Platform main interface
+##### The MakeCode Platform main interface
 ![](/assets/images/pm-mb0/mb0-1.png)
 
     TEACHER NOTES
     * Introduce the MakeCode Interface and show its similarities with Scratch
     * Similarites: block palette, simulator - stage, coding area
 
-## Makecode platform code example
+## MakeCode platform code example
 > Open this makecode example and use the simulator to see the results
 
 [CLICK THE LINK TO SEE THE CODE EXAMPLE](https://makecode.microbit.org/_ccXHpiRv83f8)
 
-##### The Makecode Platform main interface
+##### The MakeCode Platform main interface
 ![](/assets/images/pm-mb0/mb0-2.png)
 
     TEACHER NOTES
@@ -35,7 +35,7 @@ There are hundreds of activities to choose from that allows for an easy integrat
 ## Download your Program
 **1.** Connect your micro:bit to your computer using a USB cable.
 
-**2.** The micro:bit will show up as a drive called **MICROBIT**
+**2.** The micro:bit will show up as a drive called **micro:bit**
 
 **3.** On the Makecode platform, after creating your code, press the **Download** button in order to save your code.
 	
@@ -44,7 +44,7 @@ There are hundreds of activities to choose from that allows for an easy integrat
 </video>
 
 **4.** Save it as a .hex file, which is a format that the micro:bit can understand.
-Locate the downloaded file and drag it to the 'MICROBIT' drive to upload your code to the micro:bit.
+Locate the downloaded file and drag it to the 'micro:bit' drive to upload your code to the micro:bit.
 
 <video width="100%" height="" controls>
     <source src="/assets/images/videos/B.mp4" type="video/mp4">
@@ -56,8 +56,8 @@ Note: The micro:bit can only store .hex files and will reject any other type of 
 
 
 ## Reflection
-* Do you clearly understand the main differences between both the Scratch and MakeCode platforms?
-* Why would you choose one over the other in your classes?
+* Do you understand the main differences between both the Scratch and MakeCode platforms?
+* Why would you choose one over the other in your class projects?
 
 
 <!-- ## Examples 

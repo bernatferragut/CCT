@@ -1,5 +1,5 @@
 # Computational Thinking Unplugged
-> Can you give write clear enough instructions that even a computer could understand?
+> Can you write instructions that are clear enough for a computer to understand?
 
 ![](./assets/images/am-unplugged/game.png)
 
@@ -14,20 +14,19 @@
 
 **Materials:**
 * Popsicle sticks/pencils/stones (or any objects of similar size)
-* Flipchart paper
-* Scrap paper
+* Paper
 * Markers
 
 ## Introduction 
 > The Architect Game
 
-This introductory game invites participants to experience what it is like **to be a programmer** by giving simple instructions to create an image. The instructions have to be as clear as possible in order to create an acurate image made with wooden sticks.
+This unplugged introductory game invites participants to experience what it is like **to be a programmer** by giving simple instructions to recreate an image. The instructions have to be as clear as possible in order to create an accurate image made with wooden sticks.
 
 ## Game Instructions
 
 **1.** Divide students into teams of 2-4 people.
 
-**2.** Invite each team  to take 2 pages of flipchart paper, markers and 5-6 sticks.
+**2.** Invite each team to take 2 pieces of paper, markers and 5 sticks.
 
 **3.** Explain and demonstrate that:
 
@@ -61,7 +60,7 @@ This introductory game invites participants to experience what it is like **to b
 * What were some of the challenges?
 * In real life, what are some instructions that require measurements?
 * What would happen if these instructions were not clear enough?
-* When we create instructions, what do we need to check for to make sure they lead to the right result?
+* When we give instructions, what do we need to do to ensure they lead to the desired result?
 ---
 
 	TEACHING NOTES

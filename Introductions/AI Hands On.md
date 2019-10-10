@@ -1,4 +1,4 @@
-# AI Hands On Activity
+# AI Hands-On Activity
 
 **Learning objectives:** 
 * Familiarity with computational practices like abstraction and decomposition
@@ -9,8 +9,8 @@
 **Recommended duration:** 15 min
 
 **Materials:**
-* [Object cards - Downlod]()
-* [Category cards: texture, color, size, shape  - Downlod](./assets/images/am-pdf/KCJ_AI_Cards_SingleSide.pdf)
+* [Object cards - Download]()
+* [Category cards: texture, color, size, shape  - Download](./assets/images/am-pdf/KCJ_AI_Cards_SingleSide.pdf)
 
 ## Game
 > Use a card game to introduce the concept of computer vision.

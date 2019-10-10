@@ -26,8 +26,8 @@
     This data set of images contains forks manually identified 
     The more examples we have the better the AI will work
 
-## Input example in your model
-> Input examples and counter example to train your model
+## Input examples in your model
+> Input examples and counter examples to train your model
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_4.png)
 
     NOTES:
@@ -37,7 +37,7 @@
     * That way the AI can see the difference between what a fork looks like and what a fork doesn’t look like.
 
 ## Test your model
-> Test your model with another example, here a spoon 
+> Test your model with another example, i.e. - a spoon
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_6.png)
 
     NOTES:
@@ -57,7 +57,9 @@
 ![](./assets/images/am-ai-intro/AI_Intro_Slides_8.png)
 
     NOTES:
-    * During the test the AI takes an image and analyses it to identify if a fork is included. It starts by detecting the edges and identifying the pattern of a fork. 
+    * During the test, the AI takes an image and analyses it 
+    to identify if a fork is included. 
+    It starts by detecting the edges and identifying the pattern of a fork. 
 
 ## Machine Learning
 > Machine learning is a technique that teaches computers to do what comes naturally to humans: **learn from experience.**
@@ -69,8 +71,8 @@
 
 Your brain is really good at building models for objects and identifying them even if not all the parts of the objects are visible
 
-## Self driving cars
-> Some obvious things for us still very difficult for AI
+## Self-driving cars
+> Some things are obvious for us but remain difficult for AI
 <img src="./assets/images/am-ai-intro/AI_Intro_Slides_18.png" width="100%">
 
 ### CAN DO

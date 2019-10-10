@@ -1,7 +1,7 @@
 
 # Scratch Intro
 
-Scratch is a programming language that allows you to use code blocks to create animations, stories, musical instruments, games, and much more. It's a bit like programming using Lego!
+Scratch is a programming language that allows you to use code blocks to create animations, stories, music, games, and much more. It's a bit like programming using Lego blocks!
 
 **EDITOR**
 ![SCRATCH 3.0](./assets/images/am-scratch/scratch.png)
@@ -18,7 +18,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 **Learning Objectives:**
 * Familiarity with the Scratch environment
 * Learn how to move using a centric system (like a GPS)
-* Learn how to move using the cartesian system (XY coordinates)
+* Learn how to move using the cartesian system (X/Y coordinates)
 
 **Recommended grade level:** grades 3 - 7
 
@@ -45,7 +45,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
     NOTES
     * The coordinates (0, 0) are found at the center of the screen
-    * The scene dimensions are: -240 +240 on the x axis and -180 +180 on the y axis
+    * The scene dimensions are: -240/+240 on the x axis and -180/+180 on the y axis
 
 **4.** **Choose a new sprite**  from the library and place it in the bottom right corner. 
 ***Ex: Beachball***
@@ -53,13 +53,6 @@ Scratch is a programming language that allows you to use code blocks to create a
 ##### Clicking over the cat icon you can choose a new sprite, a ball in the example. 
 ![](./assets/images/am-scratch/sc-2.png)
 
-    SPEKAER NOTES
-    * Present the different parts of the scratch interface 
-    * Present the drag and drop and how to delete a block
-    * Explain how the x,y grid works in Scratch - (-240+240, -180+180)
-    * Use the Rotation wheel to show properly how angles work in Scratch
-    * Explain When key is pressed block show all the possibilities
-    * Explain why the code is only added to the sprite when it is selected
 
 ## Centric movement
 > Using the move, turn and repeat blocks to reach your goal. 
@@ -80,12 +73,12 @@ Scratch is a programming language that allows you to use code blocks to create a
 
     NOTES
     *  As an alternative to the turn # degrees block:
-    we could use the point towards block and select beach ball.
+    we could use the 'point towards' block and select beach ball.
 
 
 **4.** From the Motion section, drag the **move “10” steps** block into the coding area.
 
-**5.** Adjusting the length of the movement so the first sprite (here the cat) gets to the second sprite (here the beach ball): 
+**5.** Adjusting the length of the movement so the first sprite (cat) gets to the second sprite (beach ball): 
 
 * For the sprite to jump to another position: Adjust the number of steps in the **move “10” steps** block.
 * For the sprite to move with a smooth motion: From the **Control** section, add the block **repeat 10** around the **move “10”** steps block. Then adjust the number of repeats and the number of steps.  
@@ -95,14 +88,14 @@ Scratch is a programming language that allows you to use code blocks to create a
 ![](./assets/images/am-scratch/sc-5.png)
 
     SPEAKER NOTES
-    * The "point towards" it's the easiest road for non-science teachers, 
+    * The "point towards" is the easiest road for non-science teachers, 
     anything with angles is math and will be avoided if there's another option available.
     * Make sure to demonstrate the different options for moving: 400 steps vs. combination of repeat # and move # steps
     * Explain why we use a wait block between the turning and the moving
 
 
 ## Cartesian movement
-> Learning to use XY coordinates (cartesian) and a condition to trigger an action.
+> Learning to use X/Y coordinates (cartesian) and a condition to trigger an action.
 
 ##### We will use the event number 2 to trigger the cartesian movement
 <img src="./assets/images/am-scratch/sc-6.png" width="100%">
@@ -111,14 +104,14 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **2.** From the **Events** section, drag the **when ‘space’ key pressed** into the coding area. Update the key so the event is triggered when the key ‘2’ is pressed. ***Ex. when ‘2’ key pressed***
 
-**3.** From the **Motion** section, drag the **glide # secs to x: y:** block into the coding area. This block allows us to choose the point (x,y) we want to move to and how much time it will take to get there. In the **glide # secs to x: y:** block, update the XY coordinates to those of the destination (click on the beach ball to see its coordinates).
+**3.** From the **Motion** section, drag the **glide # secs to x: y:** block into the coding area. This block allows us to choose the point (X/Y) we want to move to and how much time it will take to get there. In the **glide # secs to x: y:** block, update the X/Y coordinates to those of the destination (click on the beach ball to see its coordinates).
 
 ##### Use the glide block from the move section
 ![](./assets/images/am-scratch/sc-7.png)
 
-**4.**  From the **Control** section, drag the **if/then** block into the coding area. This block allows us to check if a condition is being met (if the statement true or false).
+**4.**  From the **Control** section, drag the **if/then** block into the coding area. This block allows us to check if a condition is being met (if the statement is true or false).
 
-**5.** **Say ‘Hello World” when the cat touches the ball** - From the **Sensing** section, drag the **touching color** block and add it into the **if/then** block in the empty space between the **‘if’**  and the **‘then’**. 
+**5.** **Say ‘Hello World' when the cat touches the ball** - From the **Sensing** section, drag the **touching color** block and add it into the **if/then** block in the empty space between the **‘if’**  and the **‘then’**. 
 
 ##### Use the touching color block under the Sensing section
 ![](./assets/images/am-scratch/sc-8.png)
@@ -135,7 +128,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ![](./assets/images/am-scratch/sc-10.png)
 
     SPEAKER NOTES
-    * Explain the glide block, and how to get the beachball coordinate
+    * Explain the glide block, and how to get the beachball coordinates
     * Show what happens when we change the starting point
 
 

@@ -2,9 +2,9 @@
 > How can an AI system see the world?
 
 **Learning objectives:** 
-* Familiarity with AI thinking 
+* Devlop familiarity with AI thinking 
 * Identifying the different parts of training an AI :
-    * from building a data set of examples to testing the AI 
+* from building a data set of examples to testing the AI 
 
 ## 5 human senses
 > How do babies learn what forks are: 5 human senses

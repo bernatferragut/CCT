@@ -16,7 +16,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ## How to move in Scratch?
 
 **Learning Objectives:**
-* Familiarity with the Scratch environment
+* Devlop familiarity with the Scratch environment
 * Learn how to move using a centric system (like a GPS)
 * Learn how to move using the cartesian system (X/Y coordinates)
 

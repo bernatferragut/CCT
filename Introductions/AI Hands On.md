@@ -1,8 +1,8 @@
 # AI Hands-On Activity
 
 **Learning objectives:** 
-* Familiarity with computational practices like abstraction and decomposition
-* Familiarity with AI computer vision (object description by physical characteristics and not usage)
+* Devlop familiarity with computational practices like abstraction and decomposition
+* Devlop familiarity with AI computer vision (object description by physical characteristics and not usage)
 
 **Recommended grade level:** 4-8
 

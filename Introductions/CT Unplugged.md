@@ -8,8 +8,8 @@
 **Recommended duration:** 15 minutes
 
 **Learning objectives:** 
-* Familiarity with the creation of a program
-* Familiarity with the programming concept of sequencing and algorithms
+* Devlop familiarity with the creation of a program
+* Devlop familiarity with the programming concept of sequencing and algorithms
 * To create clear and specific algorithms to perform a task or 'computation'
 
 **Materials:**

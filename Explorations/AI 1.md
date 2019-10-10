@@ -90,7 +90,7 @@ This activity is inspired by the “Password power-up” activity from [Common S
 
 > Draw 5 concentric circles on the white board 
 
-<img src="./assets/images/pm-ai-dc/AI-DC.png" width="100%">
+<img src="./assets/images/pm-ai-dc/AI-DC2.png" width="100%">
 
 Ask the class to place each sentence in the circle representing who can access this information: 
 

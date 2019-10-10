@@ -1,5 +1,5 @@
 # AI Intro
-> AI: Can we get an AI to see the world?
+> How can an AI system see the world?
 
 **Learning objectives:** 
 * Familiarity with AI thinking 

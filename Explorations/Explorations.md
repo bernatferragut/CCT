@@ -3,12 +3,6 @@
 ## Group Maker
 * [Fill the Group Making Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
 
----
-
-<img src="./assets/images/pm-ex/ex1.png" width="100%">
-
-
-
 ## Introductions
 
 * **Find your group** and introduce yourself!
@@ -32,6 +26,8 @@ Watch how this group of students created “inventions” to help solve world pr
 
 ## Explorations
 > **2 Activities - 45 min each**
+
+<img src="./assets/images/pm-ex/ex1.png" width="100%">
 
 Once you have completed two of the activities, select one person to take notes on your group discussion. We have already created note documents for you, you can find it here:
 

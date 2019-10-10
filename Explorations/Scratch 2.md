@@ -72,7 +72,7 @@ Click on this link to see an example of a project you can remix to make a simila
 From the **Look** section, drag the **switch to “costume1"** block and add it to your code.
 
 
-From the Look section, drag a block **switch to “costume1”** in the bracket of the **if/then/else block** corresponding to the correct answer. 
+From the Look section, drag a block **switch to “costume2”** in the bracket of the **if/then/else block** corresponding to the correct answer. 
 	
 <img src="./assets/images/pm-sc2/7.png" width="100%">
 

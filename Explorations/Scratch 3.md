@@ -76,7 +76,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 * Change the **color** and **thickness** of your square by using the following blocks in your code:
 
-<img src="./assets/images/pm-sc3/11.png" width="300px">
+<img src="./assets/images/pm-sc3/11.png" width="100%">
 
         NOTE
         * There are 100 colors to choose from

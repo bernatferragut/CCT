@@ -1,4 +1,4 @@
-# Artbit Storytelling <span style="color:orange;font-size:1.5rem;">EASY</span>
+# Artbit Storytelling <span style="color:orange;font-size:1.5rem;">BEGINNER</span>
 > Storytelling with code
 
 **Learning Objectives:**

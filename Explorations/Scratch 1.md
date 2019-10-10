@@ -1,4 +1,4 @@
-# Scratch Presentation <span style="color:orange;font-size:1.5rem;">EASY</span>
+# Scratch Presentation <span style="color:orange;font-size:1.5rem;">BEGINNER</span>
 
 **Learning Objectives:**
 * Create an interactive presentation on a subject of your choice using Scratch. - [GLOBAL GOALS LINK](https://kidscodejeunesse.org/global-goals)

@@ -3,17 +3,17 @@
 **Learning Objectives:**
 * Create an interactive presentation on a subject of your choice using Scratch. - [GLOBAL GOALS LINK](https://kidscodejeunesse.org/global-goals)
 * Introduction to storytelling using Scratch
-* Familiarity with the Scratch environment 
+* Develop familiarity with the Scratch environment 
 
-**Recommended grade level:**: grades 3 - 9
+**Recommended grade level:** grades 3 - 9
 
-**Recommended duration:**: 45 min
+**Recommended duration:** 45 min
 
-**Materials:**: Scratch 3.0
+**Materials:** Scratch 3.0
 
 **Warm-up**
-* If you already have a project you've done with the class, it's a great starting point (ex: arctic tundra, polar bear). - [GET INSPIRATION](http://www.hww.ca/en/ )
-* Find some fun and interesting facts that you will then illustrate with characters in your project (ex: Polar bears have translucent hair and black skin to absorb and preserve body heat). - [GET INSPIRATION](http://www.hww.ca/en/)
+* You can get started by choosing a unit from any subject that you have recently taught or are currently teaching your students. For example, ancient egypt in history, Frida Khalo in art or the arctic tundra in geography. - [GET INSPIRATION](http://www.hww.ca/en/ )
+* Once you have chosen your unit, brainstorm some fun and interesting facts with your students that you will then illustrate with characters in your project in Scratch (ex: Polar bears have translucent hair and black skin to absorb and preserve body heat).- [GET INSPIRATION](http://www.hww.ca/en/)
 
 ## Remix
 Click on this link to see an example of a project you can remix to make a similar project on the subject of your choice:
@@ -54,7 +54,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 * **Download an image from the internet and use it as a sprite**
 
-* Use **google image** to look for pictures of other animals or characters (**right-click, save image as**). 
+* Use **google images** to look for pictures of other animals or characters (**right-click, save image as, upload to Scratch**). 
 
 * Use the **Tools** section of the google image search bar to filter pictures by **Usage rights**, select Labeled for reuse
         

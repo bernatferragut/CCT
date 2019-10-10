@@ -1,17 +1,17 @@
 # Scratch Quiz <span style="color:orange;font-size:1.5rem;">INTERMEDIATE</span>
 
 **Learning Objectives:**
-* Familiarity with the Scratch environment
+* Develop familiarity with the Scratch environment
 * Introduction to Logic programming 
 
-**Recommended grade level:**: grades 3 - 9
+**Recommended grade level:** Grades 3 - 9
 
-**Recommended duration:**: 30 min.
+**Recommended duration:** 30 min.
 
-**Materials:**: Scratch 3.0
+**Materials:** Scratch 3.0
 
 **Warm-up**
-* Create a few examples of closed questions you could ask in a quiz - the questions should have only 2 options for the answer.
+* Create a few examples of closed-ended questions you could ask in a quiz - the questions should have only 2 options for the answer.
 
 **Examples** 
 > Is Sydney the capital of Australia? yes/no

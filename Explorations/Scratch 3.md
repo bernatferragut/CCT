@@ -1,7 +1,7 @@
 # Scratch Drawing <span style="color:orange;font-size:1.5rem;">ADVANCED</span>
 
 **Learning Objectives:**
-* Familiarity with the essential Scratch drawing tools
+* Develop familiarity with the essential Scratch drawing tools
 * Curriculum connections with their Math and/or Art
 
 **Recommended grade level:**: grades 3 - 9

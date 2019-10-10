@@ -2,7 +2,7 @@
  
 * These lessons are designed to help students develop safe online habits, maintain a healthy relationship with their screen time and protect their digital privacy. 
 
-* Each lesson starts with a short class discussion to introduce the key concepts of AI. These activities can be done offline. Finally, the lessons ends with a short wrap-up discussion.
+* Each lesson starts with a short class discussion to introduce the key concepts of AI. These activities can be done offline. Finally, the lesson ends with a short wrap-up discussion.
 
 * Lessons are independent from one another and can be done over the course of a few days or a few weeks (one activity a week for exemple).
 
@@ -30,7 +30,7 @@ Students can work in pairs or brainstorm alone. Facilitate a group discussion to
 
 > **Ask:** Think about a phone or computer that contains private information or conversations. How do you limit who can access it? 
 
-**Explain:** One of the most common ways to protect your personal information online is by using a password. It is a string of letters and numbers that allows access to your online information, like emails. Some passwords, however, are stronger than others because they are harder for someone to figure out. 
+**Explain:** One of the most common ways to protect your personal information online is by using a password. It is a string of letters, numbers, and symbols that allows access to your online information, like emails. Some passwords, however, are stronger than others because they are harder for someone to figure out. 
 
 **Activity**
 
@@ -60,11 +60,11 @@ Just yourself? Your parents? Your teachers?
         don’t write it on the same paper as your email or 
         login and the platform it is used for. 
 
-**Explain:** As you get older, having a strong password will become even more important. You will use it to restrict access to your bank accounts, email, online profiles, student account, etc... 
+**Explain:** As you get older, having a strong password will become even more important. You will use it to restrict access to your bank accounts, email, online profiles, student account, etc.
 
 
 **Reference**
-This activity is inspired by the “Password power-up” activity from Common [Sense Media:](http://bit.ly/2LGPKNn)
+This activity is inspired by the “Password power-up” activity from [Common Sense Media:](http://bit.ly/2LGPKNn)
 
 ## Circle of privacy
 
@@ -109,7 +109,7 @@ Also when you post something online, there is a chance it is never going to disa
 ## Private vs. personal information
 
 **Learning Objectives:**
-* Familiarity with the concepts of private information and why it is important to keep them private
+* Develop familiarity with the concepts of private information and why it is important to keep it private
 * Learn to respect other people's privacy online while sharing content
 
 **Materials:** Whiteboard
@@ -120,11 +120,11 @@ Also when you post something online, there is a chance it is never going to disa
 
 >  **Ask:** what is the difference between personal and private information? 
 
-Ask students to share in pairs and ask volunteers to share examples with the class.
+Ask students to brainstorm some examples of personal and private information, and then ask them to share with the class.
 
-Personal information includes:  your taste, the food you like, your hobbies 
+Examples of personal information includes: your taste, the food you like, your hobbies.
 
-Private information includes: home address, full name, phone number everything that can identify you personally 
+Examples of private information includes: home address, full name, phone number and anything that could identify you personally.
 
 **Activity**
 Draw 3 columns on the board:
@@ -134,7 +134,7 @@ Draw 3 columns on the board:
 | OK TO SHARE ONLINE | SOMETIMES OK TO SHARE ONLINE | NEVER OK TO SHARE  ONLINE |
 |--------------------|---------------------------|--------------------------|
 
-Ask students to place each following information in the appropriate column: 
+Ask students to place each of the following pieces of information in the appropriate column: 
 
 * Home address - never ok 
 * Full name - never ok
@@ -148,7 +148,8 @@ Ask students to place each following information in the appropriate column:
 
 **Reflection**
 
-Apps and websites might ask for your private information, like your date of birth and your full name for advertisement purposes, meaning the are using this information to try to sell more products to you. (e.g., Email you with a special offer on your birthday)
+Apps and websites might ask for your private information, like your date of birth and your full name for advertisement purposes. They do this so that they can target certain products to you that you might be interested in and ultimately sell more products to you. (e.g., Email you with a special offer on your birthday)
+
 
 While chatting with strangers online and in real life, it is important to keep sensitive information private. Otherwise they might be able to trick you or put you in uncomfortable situations (like coming to your home uninvited).
 
@@ -185,12 +186,11 @@ Explain each column:
 * When: when was it ? (after school before dinner, after dinner)
 * How long: how much time? (20 min )
 * With whom: who were you with (your parents, your sister, brother, friends, alone)
-* How did it make you feel: watching a funny cat videos can make you feel happy. 
-* Playing video games can make you feel frustrated. Watching a scary video can make you feel afraid
+* How did it make you feel: watching a funny cat videos can make you feel happy but playing video games can make you feel frustrated.
 
 **Reflection** 
 
-It is important to take a step back and check emotions when engaging with technology because a lot of these platforms are built to capture our attention and it is easy to get lost into them and spend more time on it than we would like. 
+It is important to take a step back and check emotions when engaging with technology because a lot of these platforms are built to capture our attention and it is easy to get lost in them and spend more time on it than we would like. 
 
 e.g., Are you watching YouTube because you feel sad and want a good laugh? Do you want to relax by playing a video game that gives you a fun challenge? 
 

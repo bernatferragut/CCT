@@ -1,20 +1,22 @@
 # AI Computer Vision <span style="color:orange;font-size:1.5rem;">INTERMEDIATE</span>
 
 **Learning Objectives:**
-* Familiarity with the concepts of AI, training process, training data and confidence level.
+* Develop familiarity with the concepts of AI such as training process, training data and confidence level.
 
-* Familiarity with computational thinking concepts like decomposition, abstraction and pattern recognition in the context of AI.
+* Develop familiarity with computational thinking concepts like decomposition, abstraction and pattern recognition in the context of AI.
 
 * Ability to reframe a problem in a way that it can be solved using AI.
 
-**Recommended duration:**: 30 min
+**Recommended duration:**30 min
 
-**Materials:**: 
+**Materials:**:
 
 * Facilitator computer with smartboard/projector/monitor
 * Internet connection + Google Chrome + Webcam
 * Student computers, one for every two students
-* [Access to The Teachable Machine](https://teachablemachine.withgoogle.com/)
+<!-- * [Access to The Teachable Machine](https://teachablemachine.withgoogle.com/) -->
+
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://teachablemachine.withgoogle.com/','_blank')"> Teachable Machine</button>
 
 
 ## Teachable Machine
@@ -25,9 +27,9 @@
 ##### The Teachable Machine interface
 <img src="./assets/images/pm-ai-tm/lucie.png" width="100%">
 
+* SKIP THE TUTORIAL - ALLOW THE USE OF CAMERA
 * Train model to recognize gestures. The result of that training will be displayed by a GIF. 
-* For the first category sign “please” by pressing and holding the train green button. It will add photos of you (training data) in the green category
-
+* For the first category sign “please” by pressing and holding the train green button. It will add photos of you (training data) in the green category: 50 examples per category is enough!
 
 <img src="./assets/images/pm-ai-tm/please.jpg" width="25%">
 
@@ -52,18 +54,18 @@
 
 <img src="./assets/images/pm-ai-tm/still.png" width="25%">
 
-## Extension
+## Extensions
 
 You can try training the Machine with these other sign
 
 <img src="./assets/images/pm-ai-tm/signs.jpg" width="100%">
 
-You can try to change the background by rotating your computer 45° on the right or the left and see if the training still works
-You can also try having someone do the signs in front of the camera and see if it still works 
+You can try to change the background by turning your computer 45° to the right or the left and see if the training still works.
+You can also try having someone else do the same signs in front of the camera and see if it still works for a different person.
 
 ## Reflection
 
-> Why one category is just about standing still? 
+> Why is one category just about standing still? 
 
 In order to recognize signing gestures, the machine has to understand standing still. This is what you are doing by training the orange category.
 

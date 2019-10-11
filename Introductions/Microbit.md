@@ -10,6 +10,8 @@ Anything from a digital basketball game to passing secret messages or creating a
 
 There are hundreds of activities to choose from that allows for an easy integration of computational thinking into any subject. The options with micro:bit are limitless. 
 
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://makecode.microbit.org/','_blank')">START MAKECODE</button>
+
 ## MakeCode Platform Intro
 > Introduction to the MakeCode interface and its similarities with Scratch.
 

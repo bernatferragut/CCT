@@ -26,6 +26,10 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **Materials:**: Scratch 3.0 platform
 
+
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://scratch.mit.edu/projects/334022308/editor/','_blank')">SCRATCH & REMIX</button>
+
+
 ## Starting point
 
 **1.** Select a sprite - Delete the default cat sprite, then click on Choose a Sprite (bottom right corner) and pick a sprite that you are looking at from above and that is facing towards the right. ***Ex: cat2, mouse1, beetle.***

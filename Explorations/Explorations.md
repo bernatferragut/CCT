@@ -1,11 +1,11 @@
 # Exploration Stations
-
+<!-- 
 ## Group Maker
-* [Fill the Group Making Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform)
+* [Fill the Group Making Form](https://docs.google.com/forms/d/e/1FAIpQLSeG3m9RVwkgDhGLpNsp9y_wj1J2FCwdih_YcThjlXBbBgaviw/viewform) -->
 
 ## Introductions
 
-* **Find your group** and introduce yourself!
+<!-- * **Find your group level** and introduce yourself! -->
 
 * **Explore our short activities** found on the left side of this page. As you go through the activities, start thinking about how you could incorporate these into your classroom.
 

@@ -19,6 +19,7 @@
 * Computer 
 * Projector 
 
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://makecode.microbit.org/','_blank')">START MAKECODE</button>
 
 ## Step counter
 > Build a step counter

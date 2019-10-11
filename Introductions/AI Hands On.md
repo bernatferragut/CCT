@@ -9,8 +9,9 @@
 **Recommended duration:** 15 min
 
 **Materials:**
-* [Object cards - Download]()
-* [Category cards: texture, color, size, shape  - Download](./assets/images/am-pdf/KCJ_AI_Cards_SingleSide.pdf)
+* [KCJ CARDS TO PRINT - Download](https://drive.google.com/file/d/16ZcIYcTUySskyVp2eQz-WMjy9m48tobn/view?usp=sharing)
+
+![](./assets/images/am-ai-ho/cards.png)
 
 ## Game
 > Use a card game to introduce the concept of computer vision.

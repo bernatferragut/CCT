@@ -141,6 +141,6 @@ Scratch is a programming language that allows you to use code blocks to create a
 * [START HERE](https://scratch.mit.edu/projects/334022308/editor/)
 * [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252799/)
 
-<img src="./assets/images/am-scratch/Map.png" width="100%">
+<a href="https://scratch.mit.edu/studios/25252799/" target="_blank" ><img src="./assets/images/am-scratch/Map.png"></a>
 
 

@@ -1,8 +1,6 @@
 # Computational Thinking Unplugged
 > Can you write instructions that are clear enough for a computer to understand?
 
-![](./assets/images/am-unplugged/game.png)
-
 **Recommended grade level:** Teachers and students of all levels
 
 **Recommended duration:** 15 minutes
@@ -16,6 +14,8 @@
 * Popsicle sticks/pencils/stones (or any objects of similar size)
 * Paper
 * Markers
+
+![](./assets/images/am-unplugged/game.png)
 
 ## Introduction 
 > The Architect Game

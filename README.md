@@ -3,6 +3,6 @@ Teacher Training Website to learn about CODING - Teachers 3-8 grades Primary and
 
 [LINK TO WEBSITE](https://training.kidscodejeunesse.org/)
 
-user: kcj_training
-pswrd: kcj_tt_2019
+* user: kcj_training
+* pswrd: kcj_tt_2019
 

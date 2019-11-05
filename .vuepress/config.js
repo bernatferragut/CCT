@@ -7,6 +7,7 @@ module.exports = {
             {text: 'Home', link: '/'},
             {text: 'Introductions', link: '/Introductions/CT Unplugged/'},
             {text: 'Explorations', link: '/Explorations/Explorations/'},
+            {text: 'Tips&Tricks', link: '/Tips/'},
             {text: 'Forms', link: '/Forms/'},
         ],
         sidebar: {
@@ -29,6 +30,9 @@ module.exports = {
                 'Artbit 1',
                 'Microbit 2',
                 'Microbit 3'
+            ],
+            '/Tips/': [
+                'README',
             ],
             '/Forms/': [
                 '',

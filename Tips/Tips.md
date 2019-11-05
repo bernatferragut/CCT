@@ -58,6 +58,9 @@ sidebarDepth: 2
 </video>
 
 ### Duplicate 
+
+> Use the Right Mouse Button ( RMB)  to make appaear the menu
+
 <br>
 <video width="100%" height="" controls>
     <source src="./assets/videos/mb-duplicate.mp4" type="video/mp4">
@@ -70,6 +73,9 @@ sidebarDepth: 2
 </video>
 
 ### Add notes
+
+> Use the Right Mouse Button ( RMB)  to make appaear the menu
+
 <br>
 <video width="100%" height="" controls>
     <source src="./assets/videos/mb-notes.mp4" type="video/mp4">

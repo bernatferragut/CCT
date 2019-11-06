@@ -2,109 +2,100 @@
 
 
 ## Definition
-> **The thinking we do when we formulate a problem or creative work clearly enough and systematically enough that we could tell a computer or a human how to do it**
+> **When we formulate a problem or creative work clearly enough and systematically enough that we could tell a computer or a human how to do it**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_1.png)
-
-<!-- TEACHERS
-* CT comes from classical philosophy
-* How the human mind think and finds solutions to problems?
-* The 4 Pillars are in no specific order -->
 
 ## Decomposition
 > **To reduce a complex problem into more simple pieces**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_2.png)
 
-<!-- TEACHERS
-* Use the path of least resistance
-* Start with what you know, the rest will unfold naturally
-* Do not try to solve 'everything' at the same time -->
+Children are builders. Whether they are making mud pies in the school playground or working in a classroom group to build a fort or house using wooden blocks or lego, they have learned to create by seeing things as an assemblage of parts. With a goal in mind, they work from a foundation up to the roof, incorporating the necessary components. 
+
+Just as educators use **Backwards Design** work from an end goal when planning a learning experience, breaking a challenge into understandable, manageable, discrete parts is one of the conceptual pillars of Computational Thinking.  
 
 ## Pattern Recognition
 > **Looking for similarities or trends and being able to apply these to find solutions for similar problems**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_3.png)
 
-<!-- TEACHERS
-* What it’s been repeated several times in this sequence?
-* Allows us to simplify the problem into a more precise one
-* Gives birth to language through an agreement
-* Connected to MEMORY: Without it, we cannot recognize anything -->
+Recognizing patterns is an important way in which we understand our world. Identifying and describing concrete patterns is an important component of primary division Mathematics. 
+
+We work with students to help them predict the next term within a pattern and to work at identifying and defining the underlying pattern rule. Science also trains us to observe and look for relationships that might exist within the world. As learners grow, they use more formal language and symbols to understand define patterns, like graphs and functions.
+
 
 ## Abstraction
-> **Reducing something complex into its most essential characteristics**
+> **Reducing something complex into the most essential characteristics**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_4.png)
 
-<!-- TEACHERS
-* The least obvious of all of them
-* To find what is fundamental takes time and effort
-* Only practice makes you better at what is essential in something
-* It’s today’s data
-* Fundamental for AI -->
+Children begin their learning with concrete objects, but over time they learn to develop abstract concepts which apply across a set of related objects. When students learn about the **characteristics of text**, or the **attributes of a polygon**, or the **properties of a solid, liquid or gas**, they develop the ability to recognize and perceive abstractions. 
+
+Abstractions can help us see models and metaphors that can be applied in similar but different situations.  
+
 
 ## Algorithms
 > **A step-by-step list or sequence of instructions**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_5.png)
 
-    TEACHERS
-    * The world of recipes, lists and daily actions
-    * We all live in our ‘daily algorithms’
-    * Slowly, our algorithms become better and better
+Frequently we encounter activities that need to be done in a specific, repeatable sequence. We develop **recipes** in order to arrive at a favourable meal for our loved ones. We practice **fire drills** in school to ensure that all critically important steps are taken to ensure the safety of everyone within the building during an evacuation. Sometimes we use the term **Procedural Thinking** when we work to organize or write a sequence of steps. A correct algorithm leads to the desired outcome. 
+
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>The world of recipes, lists and daily actions</li>
+		<li>From waking up until sleep, we all live in our ‘daily algorithms’</li>
+		<li>By constant iteration an algorithm becomes better with time</li>
+	</ul>
+</div>
 
 ## House Example
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_6.png)
 
-    TEACHERS
-    * How would you explain computational thinking to your class in a simple way?
-    * How would you illustrate the use computational thinking through the action of drawing?
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>How would you explain computational thinking to your class in a simple way?</li>
+		<li>How would you illustrate the use computational thinking through the action of drawing?</li>
+	</ul>
+</div>
 
 ## Text Challenge 
-> **Applying what you have learned about Computational Thinking**
+> **Let's apply our new computational thinking toolkit to solve a problem**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_7.png)
 
-    TEACHERS
-    * Apply the 4 strategies to find the solution
-    * Explain what strategies you have used to solve this problem
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>Apply the 4 strategies to find the solution</li>
+		<li>Explain what strategies you have used to solve this problem</li>
+	</ul>
+</div>
 
-<!-- ## Students Table CT?
-> Computational Thinking is the toolset we use when we translate our human ideas into precise instructions for a computer to carry  out. Those instructions are called **CODE**.
-
-![](/assets/images/am-ct-intro/CT_Intro_Slides_8.png)
-
-Observe this table with attention and answer the following questions:
-
-    TEACHERS
-    * Which students are doing well? Improving? Sliding?
-    * Which test was the whole group well prepared/not well prepared for?
-    * Which CT elements would you use to find an answer? -->
+<!-- ![](./assets/images/am-ct-intro/CT_Intro_Slides_8.png) -->
 
 
-
-## CT to Code
-> **Computational Thinking is the toolset we use when we translate our human ideas into precise instructions for a computer to carry  out. This set of instructions is called *CODE***.
+## Computational Thinking to Code
+> **As we previously defined, Computational Thinking is the toolkit we use when we translate our human ideas into precise instructions for a computer to carry out. This set of instructions that we create is called ***CODE***.**.
 
 ![](/assets/images/am-ct-intro/CT_Intro_Slides_9.png)
 
-<!-- TEACHERS
-* Modern computers replaced the old  group of women matemathicians
-* Grace Hopper - Room of Parabolic Calculations - COBOL
-* The Art of giving instructions has become a powerfull skill -->
-
 ## Papert to Scratch
 
-> **The role of the teacher is to create the conditions of inventiveness rather than providing ready-made answers.**
+> **The role of the teacher is to create the conditions of inventiveness rather than providing answers.**
 
 ![](/assets/images/am-ct-intro/CT_Intro_Slides_10.png)
 
-    TEACHERS
-    * Seymour Papert - a Jean Piaget alumnae - first invented LOGO
-    * LOGO is a programming language to teach kids about mathematics
-    * Later, one of his students Mitchel Resnick created Scratch
-    * Scratch is today’s standard to teach kids and adults how to code
-
-
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>Seymour Papert - a Jean Piaget alumnae - first invented LOGO</li>
+		<li>LOGO is a programming language to teach kids about mathematics</li>
+        <li>Later, one of his students Mitchel Resnick created Scratch</li>
+        <li>Scratch is today’s standard to teach kids and adults how to code</li>
+	</ul>
+</div>

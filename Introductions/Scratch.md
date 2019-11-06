@@ -161,7 +161,6 @@ Scratch is a programming language that allows you to use code blocks to create a
 </div>
 
 
-
 ## Reflection
 * Do you understand the three distinct ways to move in Scratch?
 * Why would you choose one over the other, and when?

@@ -1,30 +1,31 @@
 
 # Scratch Intro
 
-Scratch is a programming language that allows you to use code blocks to create animations, stories, music, games, and much more. It's a bit like programming using Lego blocks!
+Scratch is a programming language that allows you to use code blocks to create animations, stories, music, games, and much more. It's a bit like programming using Lego bricks!
 
 **EDITOR**
 ![SCRATCH 3.0](./assets/images/am-scratch/scratch.png)
-**TEACHER ACCOUNT:** [Creating a Scratch Account](https://scratch.mit.edu/educators/#teacher-accounts)
 
-> To request an account as a teacher you will have to fill the following form and wait for 24h.
+> To request an account as a teacher you will have to fill the following form and wait 24 hours.
+
+**TEACHER ACCOUNT:** [Creating a Scratch Account](https://scratch.mit.edu/educators/#teacher-accounts)
 
 **EDUCATORS FAQ:** [Scratch FAQ](https://scratch.mit.edu/educators/faq)
 
 
-
-## How to move in Scratch?
+## How to move your sprite in Scratch?
 
 **Learning Objectives:**
-* Devlop familiarity with the Scratch environment
+* Develop familiarity with the Scratch environment
 * Learn how to move using a centric system (like a GPS)
 * Learn how to move using the cartesian system (X/Y coordinates)
 
+
 **Recommended grade level:** grades 3 - 7
 
-**Recommended duration:**: 30 min.
+**Recommended duration:** 30 min.
 
-**Materials:**: Scratch 3.0 platform
+**Materials:** Scratch 3.0 platform
 
 
 <button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://scratch.mit.edu/projects/334022308/editor/','_blank')">SCRATCH & REMIX</button>
@@ -32,118 +33,143 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 ## Starting point
 
-**1.** Select a sprite - Delete the default cat sprite, then click on Choose a Sprite (bottom right corner) and pick a sprite that you are looking at from above and that is facing towards the right. ***Ex: cat2, mouse1, beetle.***
+**1.** **Select a sprite** - Delete the default cat sprite (drag it into the code area), then click on **Choose a Sprite** (bottom right corner) and pick a sprite that you are looking at from above, and that is facing towards the right. **Ex: cat2, mouse1, beetle.**
 
 <img src="./assets/images/am-scratch/sc-0.png" width="100%">
 
-> The first thing we do is to make sure we always have our sprite come back to a starting point. 
+> The first thing we do is to make sure we always have our sprite come back to a starting point.
 
-##### The first thing to do is to define your starting point:  We choose the top left side of the screen.
+##### The first thing you should do is define your starting point: We choose the top left side of the screen.
 
 <img src="./assets/images/am-scratch/sc-1.png" width="100%">
 
-**2.** From the **Events** section, drag the **when ‘space’ key pressed** block into the coding area. This block will trigger your action and you may choose to customize the key being used by selecting it in the drop-down menu, 
-**Ex: When ‘r’ key is pressed**
+**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. This block will trigger your action when the space bar of your keyboard is pressed.
 
-**3.** Move your sprite to the top left corner of the stage.  From the **Motion** section,  drag the **go to x: y:** block and the **point in direction 90** block into the coding area and attach them to the **when ‘space’ key pressed** block.
+**3.** From the **Motion** section, drag a **go to x: y:** block and a **point in direction ‘90’** block into the coding area and attach them to the **when ‘space’ key pressed** block.
 
-    NOTES
-    * The coordinates (0, 0) are found at the center of the screen
-    * The scene dimensions are: -240/+240 on the x axis and -180/+180 on the y axis
+**IMAGE HERE**
 
-**4.** **Choose a new sprite**  from the library and place it in the bottom right corner. 
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>The coordinates (0, 0) are found at the center of the screen</li>
+		<li>The scene dimensions are: -240/+240 on the x axis and -180/+180 on the y axis</li>
+	</ul>
+</div>
+
+**4.** Choose a **new sprite**  from the library and place it in the bottom right corner. 
 ***Ex: Beachball***
 
 ##### Clicking over the cat icon you can choose a new sprite, a ball in the example. 
 ![](./assets/images/am-scratch/sc-2.png)
 
 
-## Centric movement
-> Using the move, turn and repeat blocks to reach your goal. 
+## Movement type 1 - Turn, Move & Repeat
+> Centric movement: Use the move, turn and repeat blocks to reach your goal. 
 
-##### We will use the event number 1 to activate the centric movement
+##### We will use event number 1 to activate centric movement
 <img src="./assets/images/am-scratch/sc-3.png" width="100%">
 
+**1.** In the **Sprite** section, **select your sprite** (highlighted in blue) 
 
-**1.** In the Sprite section, **select** the cat (highlighted in blue) as we are going to be adding code to it.
+**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. Select key ‘1’ from the dropdown menu: **when the key ‘1’ is pressed**. 
 
-**2.** From the **Events** section, drag the **when ‘space’ key pressed** into the coding area. Update the key so the event is triggered when the key ‘1’ is pressed. ***Ex. when ‘1’ key pressed***
-
-**3.** From the **Motion** section, drag the **turn # degrees** block into the coding area, attach it to the **when ‘1’ key pressed** and adjust it to **35 degrees** so the cat aims towards the beach ball.
-
+**3.** From the **Motion** section, drag a **turn ‘15’ degrees** block into the coding area, attach it to the **when ‘1’ key pressed** block and change it to **‘35’ degrees**, so the sprite turns towards the **beach ball**.
 
 ##### Make sure you have your sprite selected before starting to code
 ![](./assets/images/am-scratch/sc-4.png)
 
-    NOTES
-    *  As an alternative to the turn # degrees block:
-    we could use the 'point towards' block and select beach ball.
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>As an alternative to the <strong>turn # degrees</strong> block: we could use the <strong>point towards</strong> block and select beach ball.</li>
+	</ul>
+</div>
 
+**4.** From the Motion section, drag a **move ‘10’ steps** block into the coding area.
 
-**4.** From the Motion section, drag the **move “10” steps** block into the coding area.
+**5.** Adjusting the length of the movement so **Sprite1 (cat)** gets to the **beach ball**:
 
-**5.** Adjusting the length of the movement so the first sprite (cat) gets to the second sprite (beach ball): 
+* Solution 1: Adjust the number of steps in **move ‘10’ steps** block.
+* Solution 2: From the **Control** section, drag a **repeat ‘10’** block and add it next to the **move ‘10’** steps block and adjust the number of repetitions.
 
-* For the sprite to jump to another position: Adjust the number of steps in the **move “10” steps** block.
-* For the sprite to move with a smooth motion: From the **Control** section, add the block **repeat 10** around the **move “10”** steps block. Then adjust the number of repeats and the number of steps.  
-* To observe the different parts of motion: from the **Control** section, add the **wait ‘1’** seconds block after the **turn # degrees** block. Adjust the number of seconds to obtain different effects, this can be a decimal. ***Ex.wait ‘0.5’ seconds*** 
+**To add timing to the sequence:** from the **Control** section, drag a **wait ‘1’ seconds** block, add it after the **turn ‘35’ degrees** block. Adjust the number of seconds to create different effects, this can be a decimal. ***Ex.wait ‘0.5’ seconds***
 
-##### The block wait helps us to give timing to the code.
+##### The wait block helps us to give timing to the code.
 ![](./assets/images/am-scratch/sc-5.png)
 
-    SPEAKER NOTES
-    * The "point towards" is the easiest road for non-science teachers, 
-    anything with angles is math and will be avoided if there's another option available.
-    * Make sure to demonstrate the different options for moving: 400 steps vs. combination of repeat # and move # steps
-    * Explain why we use a wait block between the turning and the moving
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>Make sure to demonstrate the different options for moving: 400 steps vs. combination of repeat # and move # steps</li>
+        <li>Explain why we use a wait block between the turning and the moving</li>
+	</ul>
+</div>
 
-
-## Cartesian movement
-> Learning to use X/Y coordinates (cartesian) and a condition to trigger an action.
+## Movement type 2 - Point toward & Glide to ‘Sprite’
+> Use the Glide to ‘Sprite’ block to move around easily in the stage  
 
 ##### We will use the event number 2 to trigger the cartesian movement
 <img src="./assets/images/am-scratch/sc-6.png" width="100%">
 
-**1.** In the Sprite section, **select** the cat (highlighted in blue) as we are going to add more code to it.
+**1.** In the **Sprite** section, select your sprite (highlighted in blue).
 
-**2.** From the **Events** section, drag the **when ‘space’ key pressed** into the coding area. Update the key so the event is triggered when the key ‘2’ is pressed. ***Ex. when ‘2’ key pressed***
+**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. Select key **‘3’** from the dropdown menu: **when the key ‘3’ is pressed.**
 
-**3.** From the **Motion** section, drag the **glide # secs to x: y:** block into the coding area. This block allows us to choose the point (X/Y) we want to move to and how much time it will take to get there. In the **glide # secs to x: y:** block, update the X/Y coordinates to those of the destination (click on the beach ball to see its coordinates).
+**3.** From the **Motion** section, drag a **Point towards ‘mouse-pointer’** block and **select ‘Beach ball’** from the drop down menu
 
-##### Use the glide block from the move section
-![](./assets/images/am-scratch/sc-7.png)
+**4.** From the **Motion** section, drag a **glide 1 secs to ‘Random position’** block and **select ‘Beach ball’** from the drop down menu
 
-**4.**  From the **Control** section, drag the **if/then** block into the coding area. This block allows us to check if a condition is being met (if the statement is true or false).
+## Movement type 3 - Glide to X/Y coordinates 
+> Learn to use X/Y coordinates (cartesian) and a condition to trigger an action.
 
-**5.** **Say ‘Hello World' when the cat touches the ball** - From the **Sensing** section, drag the **touching color** block and add it into the **if/then** block in the empty space between the **‘if’**  and the **‘then’**. 
+##### We will use the event number 3 to trigger the cartesian movement
+<img src="./assets/images/am-scratch/sc-6.png" width="100%">
+
+**1.** In the **Sprite** section, **select your sprite**. (highlighted in blue)
+
+**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. Select key ‘3’ from the dropdown menu: **when the key ‘3’ is pressed**. 
+
+**3.** From the **Motion** section, drag a **glide ‘1’ secs to x:# y:#** block into the coding area. This block allows us to glide to specific coordinates, **update** the **X/Y** to the **Beach ball coordinates**.
+
+##### Use the glide X/Y block from the move section
+<img src="./assets/images/am-scratch/sc-7.png" width="100%">
+
+**4.** From the **Control** section, drag a **if/then** block into the coding area. This block allows us to check if a condition is being met (if the statement is ‘true’ or ‘false’).
+
+**5.** **Say ‘Hello World' when the cat touches the ball** - From the **Sensing** section, drag a **touching color** block and add it in the empty space between the **‘if’** and the **‘then’** of the **if/then** block.
 
 ##### Use the touching color block under the Sensing section
-![](./assets/images/am-scratch/sc-8.png)
+<img src="./assets/images/am-scratch/sc-8.png" width="100%">
 
-**6.** Click on the **color** inside the **touching color block**, then use the **color picker tool** at the bottom to select the color red from the beach ball. The condition now becomes **if the cat  If ‘touching the red color is true’ then.**
+**6.** Click on the **color** inside the **touching color block**, then use the **color picker tool** (pipette) at the bottom to sample the **color red** from the **Beach ball.**
 
 ##### Use the color picker to select the color you want to react from
-![](./assets/images/am-scratch/sc-9.png)
+<img src="./assets/images/am-scratch/sc-9.png" width="100%">
 
-**7.** From the **Looks** section, drag the **Say “Hello” for 2 seconds** block into the coding area and add it into the **if/then** block. Update the text so that it says **“Hello World!”**
-
+**7.** From the **Looks** section, drag a **Say “Hello” for 2 seconds** block, and add it between the branches of the **if/then** block. Update the text so that it says **“Hello World!”**
 
 ##### Enjoy the final result: Hello World!
-![](./assets/images/am-scratch/sc-10.png)
+<img src="./assets/images/am-scratch/sc-10.png" width="100%">
 
-    SPEAKER NOTES
-    * Explain the glide block, and how to get the beachball coordinates
-    * Show what happens when we change the starting point
+<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<strong>Notes</strong>
+	<ul>
+		<li>Explain the glide block, and how to get the beachball coordinates</li>
+        <li>Show what happens when we change the starting point</li>
+	</ul>
+</div>
+
 
 
 ## Reflection
-* Do you understand the two distinct ways to move in Scratch?
-* Why would you choose one over the other and when?
+* Do you understand the three distinct ways to move in Scratch?
+* Why would you choose one over the other, and when?
 
 ## Remix
 
-* [START HERE](https://scratch.mit.edu/projects/334022308/editor/)
-* [SCRATCH STUDIO](https://scratch.mit.edu/studios/25252799/)
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://scratch.mit.edu/projects/334022308/editor/')">SCRATCH & REMIX</button>
+
 
 <a href="https://scratch.mit.edu/studios/25252799/" target="_blank" ><img src="./assets/images/am-scratch/Map.png"></a>
 

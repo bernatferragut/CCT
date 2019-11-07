@@ -46,7 +46,7 @@ This unplugged activity invites participants to experience what it is like **to 
 **7.** **When Team B’s design matches Team A’s, it’s time to switch roles.**
 <!-- <br> -->
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>The team who gives instructions first, cannot point or demonstrate when they give instructions. They can only use words.</li>

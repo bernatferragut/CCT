@@ -18,7 +18,7 @@ There are hundreds of activities to choose from that allow the easy integration 
 ##### The MakeCode Platform main interface
 ![](/assets/images/pm-mb0/mb0-1.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Introduce the MakeCode interface and highlight similarities with Scratch such as Block sections, simulator - stage, coding area</li>
@@ -33,7 +33,7 @@ There are hundreds of activities to choose from that allow the easy integration 
 ##### The MakeCode interface
 ![](/assets/images/pm-mb0/mb0-2.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Live code slowly</li>
@@ -58,7 +58,7 @@ There are hundreds of activities to choose from that allow the easy integration 
 
 **4.** **Now you're ready** to use your micro:bit! You can keep uploading new **.hex** files onto your **micro:bit**, but each time you upload a new program the old one is deleted as the micro:bit can only store one **.hex** file at a time.
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>The micro:bit can only store .hex files and will reject any other type of file that it receives.</li>

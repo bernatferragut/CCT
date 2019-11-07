@@ -49,7 +49,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **IMAGE HERE**
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>The coordinates (0, 0) are found at the center of the screen</li>
@@ -79,7 +79,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ##### Make sure you have your sprite selected before starting to code
 ![](./assets/images/am-scratch/sc-4.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>As an alternative to the <strong>turn # degrees</strong> block: we could use the <strong>point towards</strong> block and select beach ball.</li>
@@ -98,7 +98,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ##### The wait block helps us to give timing to the code.
 ![](./assets/images/am-scratch/sc-5.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Make sure to demonstrate the different options for moving: 400 steps vs. combination of repeat # and move # steps</li>
@@ -152,7 +152,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 ##### Enjoy the final result: Hello World!
 <img src="./assets/images/am-scratch/sc-10.png" width="100%">
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Explain the glide block, and how to get the beachball coordinates</li>

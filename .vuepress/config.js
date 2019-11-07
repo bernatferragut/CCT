@@ -16,12 +16,12 @@ module.exports = {
                 'CT Intro',
                 'Scratch',
                 'Microbit',
+                'AI Cards',
                 'AI Intro',
                 'AI Ethics',
             ],
             '/Explorations/': [
                 'Explorations',
-                'AI 1',
                 'AI 2',
                 'AI 3',
                 'Scratch 1',

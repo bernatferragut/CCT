@@ -42,7 +42,7 @@ Abstractions can help us see models and metaphors that can be applied in similar
 
 Frequently we encounter activities that need to be done in a specific, repeatable sequence. We develop **recipes** in order to arrive at a favourable meal for our loved ones. We practice **fire drills** in school to ensure that all critically important steps are taken to ensure the safety of everyone within the building during an evacuation. Sometimes we use the term **Procedural Thinking** when we work to organize or write a sequence of steps. A correct algorithm leads to the desired outcome. 
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>The world of recipes, lists and daily actions</li>
@@ -55,7 +55,7 @@ Frequently we encounter activities that need to be done in a specific, repeatabl
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_6.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>How would you explain computational thinking to your class in a simple way?</li>
@@ -68,7 +68,7 @@ Frequently we encounter activities that need to be done in a specific, repeatabl
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_7.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Apply the 4 strategies to find the solution</li>
@@ -90,7 +90,7 @@ Frequently we encounter activities that need to be done in a specific, repeatabl
 
 ![](/assets/images/am-ct-intro/CT_Intro_Slides_10.png)
 
-<div style="color:white;font-size:1rem;background-color:#82cdf8; margin:10px; padding:20px; border-radius:12px">
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Seymour Papert - a Jean Piaget alumnae - first invented LOGO</li>

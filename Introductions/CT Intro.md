@@ -52,6 +52,7 @@ Frequently we encounter activities that need to be done in a specific, repeatabl
 </div>
 
 ## House Example
+> **How would you explain computational thinking to your students?**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_6.png)
 

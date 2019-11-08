@@ -21,7 +21,7 @@ There are hundreds of activities to choose from that allow the easy integration 
 <div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
-		<li>Introduce the MakeCode interface and highlight similarities with Scratch such as Block sections, simulator - stage, coding area</li>
+		<li>Introduce the MakeCode interface and highlight similarities with Scratch such as Block sections, simulator - stage and coding area</li>
 	</ul>
 </div>
 

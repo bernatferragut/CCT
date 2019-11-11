@@ -67,8 +67,8 @@ Scratch is a programming language that allows you to use code blocks to create a
 ## Movement type 1 - Turn, Move & Repeat
 > Centric movement: Use the move, turn and repeat blocks to reach your goal. 
 
-##### We will use event number 1 to activate centric movement
-<img src="./assets/images/am-scratch/sc-3.png" width="100%">
+<!-- ##### We will use event number 1 to activate centric movement
+<img src="./assets/images/am-scratch/sc-3.png" width="100%"> -->
 
 **1.** In the **Sprite** section, **select your sprite** (highlighted in blue) 
 
@@ -114,7 +114,7 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 **1.** In the **Sprite** section, select your sprite (highlighted in blue).
 
-**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. Select key **‘3’** from the dropdown menu: **when the key ‘3’ is pressed.**
+**2.** From the **Events** section, drag a **when ‘space’ key pressed** block into the coding area. Select key **‘2’** from the dropdown menu: **when the key ‘2’ is pressed.**
 
 **3.** From the **Motion** section, drag a **Point towards ‘mouse-pointer’** block and **select ‘Beach ball’** from the drop down menu
 
@@ -123,8 +123,8 @@ Scratch is a programming language that allows you to use code blocks to create a
 ## Movement type 3 - Glide to X/Y coordinates 
 > Learn to use X/Y coordinates (cartesian) and a condition to trigger an action.
 
-##### We will use the event number 3 to trigger the cartesian movement
-<img src="./assets/images/am-scratch/sc-6.png" width="100%">
+<!-- ##### We will use the event number 3 to trigger the cartesian movement
+<img src="./assets/images/am-scratch/sc-6.png" width="100%"> -->
 
 **1.** In the **Sprite** section, **select your sprite**. (highlighted in blue)
 

@@ -2,8 +2,9 @@
 
 **Learning Objectives:**
 * Create an interactive presentation on a subject of your choice using Scratch. - [GLOBAL GOALS LINK](https://kidscodejeunesse.org/global-goals)
-* Introduction to storytelling using Scratch
-* Develop familiarity with the Scratch environment 
+* Explore storytelling using Scratch
+* Develop familiarity with the Scratch environment
+
 
 **Recommended grade level:** grades 3 - 9
 
@@ -12,7 +13,9 @@
 **Materials:** Scratch 3.0
 
 **Warm-up**
-* You can get started by choosing a unit from any subject that you have recently taught or are currently teaching your students. For example, ancient egypt in history, Frida Khalo in art or the arctic tundra in geography. - [GET INSPIRATION](http://www.hww.ca/en/ )
+
+* Get started by choosing a unit from any subject that you have recently taught or are currently teaching your students. For example, ancient Egypt in history, Frida Khalo in art or the arctic tundra in geography. - [GET INSPIRATION](http://www.hww.ca/en/ )
+
 * Once you have chosen your unit, brainstorm some fun and interesting facts with your students that you will then illustrate with characters in your project in Scratch (ex: Polar bears have translucent hair and black skin to absorb and preserve body heat).- [GET INSPIRATION](http://www.hww.ca/en/)
 
 ## Remix
@@ -27,15 +30,15 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/1.png" width="100%">
 
-* **Select a backdrop** - Click **Choose a backdrop** (in the bottom right corner) and pick a scene from the library that fits your project’s theme. ***ex: Arctic landscape***
+* **Select a backdrop** - Click **Choose a backdrop** (in the bottom right corner) and pick a scene from the library that fits your project’s theme. ***ex: Arctic landscape.***
 
 <img src="./assets/images/pm-sc1/2.png" width="100%">
 
-* **Select a sprite** -  Delete the cat sprite, then click on **Choose a Sprite** (bottom right corner) and pick a sprite that fits with your theme from the library. ***ex: Bear***
+* **Select a sprite** - Delete the cat sprite, then click on **Choose a Sprite** (bottom right corner) and select a sprite that fits with your theme from the library. ***ex: Bear***
 
 <img src="./assets/images/pm-sc1/3.png" width="100%">
 
-* **Make your sprite talk** - From the **Events** section, drag **when this sprite is clicked** block into the coding area.
+* **Make your sprite talk** - From the **Events** section, drag a **when this sprite is clicked** block into the coding area.
 
 <img src="./assets/images/pm-sc1/4.png" width="100%">
 
@@ -43,25 +46,29 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/5.png" width="100%">
 
-* Change the text - Type in one of your fun facts! **Ex: My fur is transparent!**
+* Change the text - Type in one of your fun facts. **Ex: My fur is translucent!**
 
 * You are done! Test your code by clicking on your sprite.
 
+
 ## Extension
 
-**Add other sprites** - Reproduce the same code using other sprites that can tell us other facts when they are clicked!  
+**Add other sprites** - Reproduce the same code with other sprites that can tell us different facts when they are clicked!
 
-* **Download an image from the internet and use it as a sprite**
+* **Download an image from the internet and use it as a sprite.**
 
-* Use **google images** to look for pictures of other animals or characters (**right-click, save image as, upload to Scratch**). 
+* Use **google images** to look for pictures of other animals or characters **(right-click, save image as, upload to Scratch).**
 
-* Use the **Tools** section of the google image search bar to filter pictures by **Usage rights**, select Labeled for reuse
-        
-        TIP
-        Look for images using “white background” as part of your search to find images that will be easier to edit.
-        Go back to the Scratch interface, click on the sprite icon and select Upload Sprite 
+Use the **Tools** section of the google image search bar to filter pictures by **Usage rights,** select Labeled for reuse.
+
+<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
+<strong>Tip</strong>
+	<ul>
+	    <li>Look for images with a transparent or white background as part of your search to find images that will be easier to edit.</li>
+        <li>Go back to the Scratch interface, click on the sprite icon and select Upload Sprite.</li>
+	</ul>
+</div>
 	
-
 * Go back to the Scratch interface, click on the **sprite icon** and select **Upload Sprite**
 	
 <img src="./assets/images/pm-sc1/6.png" width="100%">
@@ -76,7 +83,7 @@ Click on this link to see an example of a project you can remix to make a simila
 
 **Add a title to introduce the project which will disappear when the green flag is clicked**
 
-* **Create your title** - Create a **new sprite** using the **paint** tool 
+* **Create your title** - Create a **new sprite** using the **paint** tool
 
 <img src="./assets/images/pm-sc1/8.png" width="100%">
 
@@ -85,11 +92,12 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/9.png" width="100%">
 
-* **Animate your  title**
+* **Animate your title**
     * Select the **Code** tab,
-    * From the **Events** section, drag the block **when green flag is clicked** into the coding area.
+    * From the **Events** section, drag the **when green flag is clicked** block into the coding area.
     * From the **Looks** section, drag a **Hide** block and connect it to your code
-    * From the **Control** section, drag a **Wait for “ 3” seconds** block, connect it to your code and edit the time as required.
+    * From the **Control** section, drag a **Wait for “3” seconds** block, connect it to your code and edit the time as required.
     * From the **Looks** section, drag a **show** block and connect it to your existing code.
 
 <img src="./assets/images/pm-sc1/10.png" width="100%">
+

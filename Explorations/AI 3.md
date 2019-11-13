@@ -32,7 +32,7 @@
 
 ## Train the AI model to recognize gestures
 
-The result of this training will be displayed in a GIF.
+This training will produce a GIF.
 
 For the first category, make the sign language action for “please” while pressing and holding the train green button. It will add photos of you (training data) in the green category: 50 examples per category is enough!
 

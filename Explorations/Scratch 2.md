@@ -2,7 +2,7 @@
 
 **Learning Objectives:**
 * Develop familiarity with the Scratch environment
-* Introduction to Logic programming 
+* Learn about Logic programming
 
 **Recommended grade level:** Grades 3 - 9
 
@@ -31,19 +31,19 @@ Click on this link to see an example of a project you can remix to make a simila
 
 <img src="./assets/images/pm-sc1/1.png" width="100%">
 
-* **Make your sprite talk** - Click on the **Events**  category in the block palette and drag the **when this sprite is clicked** block into the coding area.
+* **Make your sprite talk** - Click on the **Events** category in the block palette and drag the **when this sprite is clicked** block into the coding area.
 
 <img src="./assets/images/pm-sc2/2.png" width="100%">
 
-* **Ask a question:** From the **Sensing** section, drag the **Ask ‘What is your name’ and wait** block to the coding area and add it to your code.
+* **Ask a question:** From the **Sensing** section, drag the **Ask ‘What is your name’** and **wait** block to the coding area and add it to your code.
 
 <img src="./assets/images/pm-sc2/3.png" width="100%">
 
-* **Add your question** - Double click on the white bubble to select the text and write your question.
+* **Add your question** - Double click on the white bubble to select the “What is your name” text and paste in your question.
 
-* From the **Control** section, drag **if/then/else** block and add it to your code.
+* From the **Control** section, drag an **if/then/else** block and add it to your code.
 
-**Check the answer:**  From the **Operator** section, drag the hexagonal **comparison block with an equal sign** into the coding area and place it inside the blank spot between the “if” and the “then” of the **if/then/else** block.
+**Check the answer:** From the **Operator** section, drag the hexagonal **comparison block with an equal sign** into the coding area and place it inside the blank spot between the “if” and the “then” of the **if/then/else** block.
 
 <img src="./assets/images/pm-sc2/4.png" width="100%">
 
@@ -52,14 +52,13 @@ Click on this link to see an example of a project you can remix to make a simila
 <img src="./assets/images/pm-sc2/5.png" width="100%">
 
 * In the green **comparison** block, on the right-hand side of the equal sign, write one of the two possible answers.
-* From the **Looks** section, drag two **say “Hello!” for 2 seconds** blocks into the coding area and place them between the branches of the **if/then/else** block. 
+* From the **Looks** section, drag two **say “Hello!” for 2 seconds** blocks into the coding area and place them between the branches of the **if/then/else** block.
 
 <img src="./assets/images/pm-sc2/6.png" width="100%">
 
 * Change the text in the **say** block according to the comparison, for example, **“Good job”** for the correct answer and **“Try again!”** for the incorrect answer
 
-* You are done! Test your code by clicking on your sprite 
-
+* You are done! Test your code by clicking on your sprite
 
 ## Extension
 
@@ -69,13 +68,11 @@ Click on this link to see an example of a project you can remix to make a simila
 
 From the **Look** section, drag the **switch to “costume1"** block and add it to your code.
 
-
-From the Look section, drag a block **switch to “costume2”** in the bracket of the **if/then/else block** corresponding to the correct answer. 
+From the **Look** section, drag the **switch to “costume2”** block into the bracket of the **if/then/else** block that corresponds to the correct answer.
 	
 <img src="./assets/images/pm-sc2/7.png" width="100%">
 
-* Select your **costume2** variable in the drop-down list by clicking on the **arrow on the side.**
-
+* Select your **costume2** variable in the drop-down list by clicking on the **arrow on the side**.
 
 * **Keeping score** - From the **Variables** section, click the **Make a Variable** button and name the variable score.
 
@@ -87,8 +84,8 @@ From the Look section, drag a block **switch to “costume2”** in the bracket 
 
 * Select your **score** variable in the drop-down list by clicking on the **arrow** on the right of the variable.
 
-* From the **variables** section, drag **2** blocks **change “my variable” by “1”** to the coding area. Add one **change “my variable” by “1”** to each of the brackets of the **block if/then/else**. Select your **score** variable in the drop-down list by clicking on the **arrow** on the right of **“my variable”.**
+* From the **variables** section, drag two change **“my variable” by “1”** blocks to the coding area. Add one **change “my variable” by “1”** to each of the brackets of the **if/then/else block**. Select your **score** variable in the drop-down list by clicking on the **arrow** on the right of **“my variable”**.
 
-* Update **change “my score” by “1”** score value to **“1”** for the correct answer and to “-1” for the incorrect answer.
+* Update the **change “my score” by “1”** block to change score value to **“1”** for the correct answer and to **“-1”** for the incorrect answer.
 
 <img src="./assets/images/pm-sc2/10.png" width="100%">

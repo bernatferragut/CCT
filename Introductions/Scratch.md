@@ -167,9 +167,12 @@ Scratch is a programming language that allows you to use code blocks to create a
 
 ## Remix
 
-<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://scratch.mit.edu/projects/334022308/editor/')">SCRATCH & REMIX</button>
+<button style="width: 100%; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 2px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: orange; color: white; border-radius: 10px; border: 0px solid #999; font-size: 150%;" onclick=" window.open('https://scratch.mit.edu/projects/338441268/editor/')">SCRATCH & REMIX</button>
 
+<p style="text-align:center">
+<a href="https://scratch.mit.edu/studios/25252799/" target="_blank" ><img src="./assets/images/am-scratch/Map.png" width="50%"></a>
+</p>
 
-<a href="https://scratch.mit.edu/studios/25252799/" target="_blank" ><img src="./assets/images/am-scratch/Map.png"></a>
-
-
+<p style="text-align:center">
+<a href="https://www.freepik.com/free-photos-vectors/kids">Kids vector created by rawpixel.com - www.freepik.com</a>
+</p>

@@ -11,28 +11,23 @@
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_2.png)
 
-Children are builders. Whether they are making mud pies in the school playground or working in a classroom group to build a fort or house using wooden blocks or lego, they have learned to create by seeing things as an assemblage of parts. With a goal in mind, they work from a foundation up to the roof, incorporating the necessary components. 
-
-Just as educators use **Backwards Design** work from an end goal when planning a learning experience, breaking a challenge into understandable, manageable, discrete parts is one of the conceptual pillars of Computational Thinking.  
+As educators, we use **Backwards Design** to work from an end goal when planning a learning experience, breaking a challenge into understandable, manageable parts.  
 
 ## Pattern Recognition
 > **Looking for similarities or trends and being able to apply these to find solutions for similar problems**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_3.png)
 
-Recognizing patterns is an important way in which we understand our world. Identifying and describing concrete patterns is an important component of primary division Mathematics. 
+Identifying and describing concrete patterns is an important component of **primary division Mathematics**. 
 
-We work with students to help them predict the next term within a pattern and to work at identifying and defining the underlying pattern rule. Science also trains us to observe and look for relationships that might exist within the world. As learners grow, they use more formal language and symbols to understand define patterns, like graphs and functions.
-
+We work with students to help them predict the **next term** within a **pattern** and identify and define the **underlying pattern rule**. 
 
 ## Abstraction
 > **Reducing something complex into the most essential characteristics**
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_4.png)
 
-Children begin their learning with concrete objects, but over time they learn to develop abstract concepts which apply across a set of related objects. When students learn about the **characteristics of text**, or the **attributes of a polygon**, or the **properties of a solid, liquid or gas**, they develop the ability to recognize and perceive abstractions. 
-
-Abstractions can help us see models and metaphors that can be applied in similar but different situations.  
+When students learn about the **characteristics of text**, or the **attributes of a polygon**, or the **properties of a solid,liquid or gas**, they develop the ability to recognize and perceive abstractions. 
 
 
 ## Algorithms
@@ -40,7 +35,8 @@ Abstractions can help us see models and metaphors that can be applied in similar
 
 ![](./assets/images/am-ct-intro/CT_Intro_Slides_5.png)
 
-Frequently we encounter activities that need to be done in a specific, repeatable sequence. We develop **recipes** in order to arrive at a favourable meal for our loved ones. We practice **fire drills** in school to ensure that all critically important steps are taken to ensure the safety of everyone within the building during an evacuation. Sometimes we use the term **Procedural Thinking** when we work to organize or write a sequence of steps. A correct algorithm leads to the desired outcome. 
+Frequently we encounter activities that need to be done in a specific, repeatable sequence, like a **recipe**. We practice **fire drills** in school to ensure that important steps are taken to ensure the safety during an evacuation.
+The term **Procedural Thinking** can also be used to describe these processes. 
 
 <div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>

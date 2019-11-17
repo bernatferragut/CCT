@@ -1,7 +1,6 @@
 # micro:bit Messages <span style="color:orange;font-size:1.5rem;">ADVANCED</span>
 > Experiment with the radio - How to send messages!
 
-
 **Learning Objectives:**
 * Learn how to broadcast simple messages with the micro:bit
 * Learn how communication channels work when sending information.
@@ -103,4 +102,7 @@
 
 * **Projects for children and teens to combine creativity and technology to solve the Global Goals**
 > [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/)
+
+<!-- * **Recent Projects made by KCJ**
+> [When 25 micro:bits unite and become...a macro:bit](https://twitter.com/KidsCoding/status/1191472621927485446?s=20) -->
 

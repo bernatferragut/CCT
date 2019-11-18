@@ -8,5 +8,5 @@ Document to help you share your presentation in public and between your peers.
 ## 2. Teacher Training Survey
 Help us make this workshop better in the future so more teachers can be introduced to coding and computer ethics.
 
-[CLICK THE LINK](https://kidscodejeunesse.typeform.com/to/YygwQx)
+[CLICK THE LINK](https://kidscodejeunesse.typeform.com/to/AKfS44)
 

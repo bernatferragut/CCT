@@ -15,7 +15,7 @@ module.exports = {
                 'CT Unplugged',
                 'CT Intro',
                 'Scratch',
-                'Microbit',
+                'microbit',
                 'AI Cards',
                 'AI Intro',
                 'AI Ethics',

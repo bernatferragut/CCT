@@ -68,3 +68,10 @@ This comes with 2 side effects:
 * **You train the AI! Expand your bubble!**
 
 [We deeply recommend to watch this inspirational TED TALK video](http://www.evolvingai.org/fooling)
+
+## To go further 
+
+> [Gender Shades:](https://www.youtube.com/watch?v=TWWsW1w-BVo)
+
+> [TuringBox:](https://www.youtube.com/watch?v=xtgK3kSm9sM&list=PLj62-wQeg_Djfo0sEUiFj7-1tbP5xXoBi&index=27)
+

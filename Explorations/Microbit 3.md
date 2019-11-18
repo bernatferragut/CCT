@@ -77,12 +77,6 @@
 
 * **If two people want to send messages between themselves (and no one else), how would they adapt their code?**
 
-<video width="100%" height="" controls>
-    <source src="/assets/images/videos/basket.mp4" type="video/mp4">
-</video>
-
----
-
 > Using a different radio group
 
 <img src="./assets/images/pm-mb3/5.png" width="100%">

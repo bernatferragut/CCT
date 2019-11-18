@@ -6,7 +6,7 @@
 
 * Lessons are independent from one another and can be done over the course of a few days or a few weeks (i.e one activity per week).
 
-[LINK TO PDF](https://docs.google.com/document/d/1YxJS8X24-1SxGqlmL4cG5OSobxUBWFNrNByOVX8wuIo/edit)
+[LINK TO PDF](/assets/images/pdf/AI.pdf)
 
 ## Create a safe password
 
@@ -134,7 +134,6 @@ Examples of private information includes: your home address, full name, phone nu
 
 **Activity**
 > Draw 3 columns on the board:
-
 
 <!-- <img src="./assets/images/pm-ai-info/info.png" width="100%"> -->
 

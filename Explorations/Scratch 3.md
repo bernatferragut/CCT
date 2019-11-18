@@ -22,7 +22,7 @@ Click on this link to see an example of a project you can remix to make a simila
 <img src="./assets/images/pm-sc3/1.png" width="100%">
 
 
-## Set up
+## Set up - Challenge 1
 
 **1. Choose your sprite** - Choose the sprite you want to draw your shape with from the library (we suggest using an arrow to help visualize changes in direction).
 
@@ -119,3 +119,6 @@ From the **Motion** section, drag a **move ‘10’ steps** block and a **turn �
 
 <img src="./assets/images/pm-sc3/15.png" width="100%">
 
+## To go further 
+
+[Create Modules:](https://scratch.mit.edu/projects/334025288/editor/)

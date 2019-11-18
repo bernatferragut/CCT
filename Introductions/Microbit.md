@@ -1,5 +1,5 @@
 
-# Micro:bit Intro
+# micro:bit Intro
 
 ## What is a Micro:bit?
 The BBC micro:bit is a mini-computer that can be programmed to do almost any task! It has a built-in accelerometer, radio transmitter, 5 by 5 LED display and two programmable buttons.
@@ -18,12 +18,12 @@ There are hundreds of activities to choose from that allow the easy integration 
 ##### The MakeCode Platform main interface
 ![](/assets/images/pm-mb0/mb0-1.png)
 
-<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
+<!-- <div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Introduce the MakeCode interface and highlight similarities with Scratch such as Block sections, simulator - stage and coding area</li>
 	</ul>
-</div>
+</div> -->
 
 ## MakeCode platform code example
 > Open this MakeCode example and use the simulator to see the results
@@ -33,13 +33,13 @@ There are hundreds of activities to choose from that allow the easy integration 
 ##### The MakeCode interface
 ![](/assets/images/pm-mb0/mb0-2.png)
 
-<div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
+<!-- <div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
 		<li>Live code slowly</li>
         <li>Encourage people to go on the platform and test the code themselves</li>
 	</ul>
-</div>
+</div> -->
 
 ## Download your Program
 **1.** Connect your **micro:bit** to your computer using a USB cable. It will show up as a drive called **‘micro:bit’**.

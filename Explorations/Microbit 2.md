@@ -106,7 +106,7 @@
 
 * Change the icons or draw the images that will indicate what the result of the comparison is ***Ex. when temperature > 15 display a duck < 15 display a house***
 
-## Challenges
+<!-- ## Challenges
 
 * Can you change the temperature of the microbit with you body/hands? how hot can you make it?
 
@@ -121,4 +121,20 @@
 * **Introducing climate change:** 
 > Compare the temperature measured today with the average temperature over the last decade in your city
 * **Projects for children and teens to combine creativity and technology in solutions for the Global Goals**
+> [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/) -->
+
+
+## Activity Ideas
+
+**Surface temperatures:**
+
+* Can you change the temperature of the microbit with you body/hands? how hot can you make it?
+* Can you measure the temperature on black and white surfaces outdoors?
+
+**Introducing climate change:**
+
+* Can you compare the temperature measured today with the average temperature over the last decade in your city?
+* Can you build a project that records the average temperature in your classroom every hour? Day?
+
+**Projects for children and teens to combine creativity and technology in solutions for the Global Goals**
 > [Inspiratons - 7 Projects](https://microbit.org/do-your-bit/inspiration/)

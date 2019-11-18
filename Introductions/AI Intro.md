@@ -124,6 +124,17 @@ Your brain is really good at building models of objects and identifying them - e
 ### CAN'T DO
 * Identify pneumonia from 10 images, a textbook chapter and a few clinical cases
 
+
+## To go futher
+
+
+
+> [Andrew Ng’s free class - Coursera:](https://www.coursera.org/learn/ai-for-everyone)
+
+> [Janelle Shane - Ted Talk:](https://www.ted.com/talks/janelle_shane_the_danger_of_ai_is_weirder_than_you_think#t-1580)
+
+> [2 minute guide about AI - Forbes:](https://www.forbes.com/sites/parmyolson/2018/10/03/a-two-minute-guide-to-artificial-intelligence/)
+
 <div style="color:white;font-size:0.8rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>References</strong>
 	<ul>

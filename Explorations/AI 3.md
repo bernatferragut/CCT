@@ -90,3 +90,7 @@ The confidence level is the AI sharing the confidence it has in its decision, as
 </li>
 	</ul>
 </div>
+
+## To go further 
+
+[New version of the Teachable Machine:](https://teachablemachine.withgoogle.com/train) 

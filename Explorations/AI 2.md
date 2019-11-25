@@ -13,7 +13,7 @@
 **Learning Objectives:**
 * Understand what a password is and why it is important
 * Learn how to create a strong password and store it properly
-* Explain how AI can guess passwords, and how to make a strong password, that is AI-proof.
+<!-- * Explain how AI can guess passwords, and how to make a strong password, that is AI-proof. -->
 
 **Recommended duration:** 30 min
 
@@ -31,7 +31,8 @@ Students can work in pairs or brainstorm alone. Facilitate a group discussion to
 
 > **Ask:** Think about a phone or computer that contains private information or conversations. How do you limit who can access it?
 
-**Explain:** One of the most common ways to protect your personal information online is by using a password. It is a string of letters, numbers, and symbols that allows access to your online information, like emails. Some passwords are stronger than others, because they are harder for an AI to figure out.
+**Explain:** One of the most common ways to protect your personal information online is by using a password. It is a string of letters, numbers, and symbols that allows access to your online information, like emails. 
+<!-- Some passwords are stronger than others, because they are harder for an AI to figure out. -->
 
 **Activity**
 

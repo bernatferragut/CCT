@@ -29,5 +29,5 @@ Help us make this workshop better in the future so more teachers can be introduc
 
 [**WINNIPEG**](https://kidscodejeunesse.typeform.com/to/X294Ki)
 
-[**IQALUIT**](https://drive.google.com/drive/folders/1gw3tOAL7PaIWVP1GTMbFYPmvdsxjAj8X?usp=sharing)
+[**IQALUIT**](https://kidscodejeunesse.typeform.com/to/J357BC)
 

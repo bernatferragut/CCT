@@ -6,7 +6,7 @@
 
 * With the teachers at your table, **share ideas around how you could use Scratch, AI, or micro:bit to enhance your students' learning.**
 
-* **Don’t forget to fill out the [note document](https://drive.google.com/drive/folders/17iS_xCMzZx_fVneUcsTA8pOvQ0E7zPWR?usp=sharing)**.
+* **Don’t forget to fill out the note document on the [FORMS](https://drive.google.com/drive/folders/1tcxJQFH_fpm6itosrxKKJt1D1siOmg-j?usp=sharing) section**.
 
 * Present your discoveries to your peers in a **short pitch.**
 
@@ -26,12 +26,11 @@ This group of students used innovation to support the UN Global Goals through in
 
 <img src="./assets/images/pm-ex/ex1.png" width="100%">
 
-Select one person to take notes on your group discussion. We have already created note documents for you, you can find it here: [note documents](https://drive.google.com/drive/folders/17iS_xCMzZx_fVneUcsTA8pOvQ0E7zPWR?usp=sharing)
-
+Select one person to take notes on your group discussion. We have already created note documents for you, you can find them on the FORMS section.
 
 * Find your **table number** and open the **corresponding document**:
-    * [CLICK TO FIND YOUR PRESENTATIONS NOTES](https://drive.google.com/drive/folders/17iS_xCMzZx_fVneUcsTA8pOvQ0E7zPWR?usp=sharing)
-* Since the notes are captured on a Shared Drive, you will be able to access other groups’ ideas as we do this workshop with teachers across Canada!
+    * Go to the [FORMS](https://drive.google.com/drive/folders/1tcxJQFH_fpm6itosrxKKJt1D1siOmg-j?usp=sharing) section and choose your city.
+    * Since the notes are captured on a Shared Drive, you will be able to access other groups ideas as we do this workshop with teachers across Canada!
 
 ## Presentations
 

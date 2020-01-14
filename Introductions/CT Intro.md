@@ -90,9 +90,11 @@ The term **Procedural Thinking** can also be used to describe these processes.
 <div style="color:white;font-size:1rem;background-color:#ACDDFA; margin:10px; padding:20px; border-radius:12px">
 <strong>Notes</strong>
 	<ul>
-		<li>Seymour Papert - a Jean Piaget alumnae - first invented LOGO</li>
-		<li>LOGO is a programming language to teach kids about mathematics</li>
-        <li>Later, one of his students Mitchel Resnick created Scratch</li>
-        <li>Scratch is today’s standard to teach kids and adults how to code</li>
+		<li>In the late 60s, Papert developed logo,  a general-purpose programming language designed for kids.  He discovered that  it helped them create visual models that were helpful for math and engineering.</li>
+		<li>Logo is a general-purpose programming language designed to teach the basics of programming to children.</li>
+		<li>This has influenced a "code to learn" movement, the idea that code is something to be learned not just to learn code but because it helps us learn about learning.</li>
+        <li>Scratch was inspired by the 'code to learn philosophy' of Logo and it was co-developed by Mitch Resznick at MIT, and the Montreal based Playful Invention Company who built Scratch Jr. and the Art:bit app. </li>
 	</ul>
 </div>
+
+ 

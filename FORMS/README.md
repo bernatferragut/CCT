@@ -3,6 +3,10 @@
 ## 1. Presentation Notes
 Document to help you share your presentation in public and between your peers.
 
+[**OTTAWA**](https://drive.google.com/open?id=1p2NqewOLb4QjgIN1vY3bImyhWNuKwuLX)
+
+[**VANCOUVER**](https://drive.google.com/open?id=1wotz3RMJzhAtKoQbpwM0vm9219rKY5UV)
+
 [**LETHBRIDGE**](https://drive.google.com/drive/folders/17SsED52ydeMbuKdPX_9q4ryt5Xko3Vyv?usp=sharing)
 
 [**KITCHENER WATERLOO**](https://drive.google.com/drive/folders/1F12_LdAQaNEruojxNIGJSJtUWXInTc-c?usp=sharing)
@@ -18,6 +22,10 @@ Document to help you share your presentation in public and between your peers.
 
 ## 2. Teacher Training Survey
 Help us make this workshop better in the future so more teachers can be introduced to coding and computer ethics.
+
+[**OTTAWA**]()
+
+[**VANCOUVER**]()
 
 [**LETHBRIDGE**](https://kidscodejeunesse.typeform.com/to/CEUhIP)
 

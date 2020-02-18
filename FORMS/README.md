@@ -3,6 +3,8 @@
 ## 1. Presentation Notes
 Document to help you share your presentation in public and between your peers.
 
+[**CORNER BROOK**](https://drive.google.com/drive/u/1/folders/1O98MIDNprF-gM_18P9G604hC6VDMvnfT)
+
 [**SMITHERS FDTT**](https://drive.google.com/open?id=1aawv5JZ89HevUFaDZ5QRJTv5j-_8B8h7)
 
 [**YARMOUTH**](https://drive.google.com/drive/u/2/folders/1P0Es_mwTlshcxIXlYLFxPnmUal1E2hw8)
@@ -32,6 +34,8 @@ Document to help you share your presentation in public and between your peers.
 
 ## 2. Teacher Training Survey
 Help us make this workshop better in the future so more teachers can be introduced to coding and computer ethics.
+
+[**CORNER BROOK**](https://kidscodejeunesse.typeform.com/to/A1w8ug)
 
 [**SMITHERS FDTT**](https://kidscodejeunesse.typeform.com/to/hRc8gV)
 
